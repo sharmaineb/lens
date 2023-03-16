@@ -1,6 +1,6 @@
 import React from 'react'
 import { useParams } from 'react-router-dom'
-import data from './filmdata'
+import data from '../../filmdata'
 import './FilmFeature.css'
 
 function getFeature(props) {

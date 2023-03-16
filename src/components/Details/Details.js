@@ -1,7 +1,7 @@
 import React from 'react'
 import { useParams } from 'react-router'
-import data from './filmdata'
-import FilmFeatureList from './FeaturesList'
+import data from '../../filmdata'
+import FilmFeatureList from '../FilmFeature/FilmFeature'
 import './Details.css'
 
 function Details(props) {

@@ -1,6 +1,6 @@
 import React from 'react';
-import FilmSpace from './FilmSpace';
-import data from './filmdata'
+import FilmSpace from '../../FilmSpace';
+import data from '../../filmdata';
 import { useState } from 'react'
 import './List.css'
 

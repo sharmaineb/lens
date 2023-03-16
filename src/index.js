@@ -3,8 +3,8 @@ import React from 'react';
 import { createRoot } from 'react-dom/client'
 import './index.css';
 import App from './App';
-import List from './List';
-import Details from './Details';
+import List from './components/List/List'
+import Details from './components/Details/Details';
 import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 
 const rootElement = document.getElementById('root');
