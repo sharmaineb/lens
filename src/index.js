@@ -4,6 +4,7 @@ import { createRoot } from 'react-dom/client'
 import './index.css';
 import App from './App';
 import List from './List';
+import Details from './Details';
 import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 
 const rootElement = document.getElementById('root');
@@ -14,6 +15,7 @@ root.render(
     <Routes>
       <Route path='/' element={<App />}>
         <Route path='/' element={<List />} />
+        <Route path='/details/:id' element={<Details />} />
       </Route>
     </Routes>
   </Router>,
