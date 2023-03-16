@@ -16,7 +16,7 @@ const Navbar = () => {
         <div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 p-4 text-[#6a0d83]'>
         <NavLink 
 	            className={({ isActive }) => isActive ? 'nav-link-active' : 'nav-link' }
-	            to="/">Home</NavLink>
+	            to="/home">Home</NavLink>
         </div>    
         <div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 p-4 text-[#6a0d83]'>
         <NavLink 
@@ -31,10 +31,10 @@ const Navbar = () => {
         <div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 p-4 text-[#6a0d83]'>
         <NavLink 
 	            className={({ isActive }) => isActive ? 'nav-link-active' : 'nav-link' }
-	            to="/contact">Contact</NavLink>
+	            to="/contact">Newsletter</NavLink>
         </div>  
         </ul>
-        </div>
+      </div>
     )
 }
 

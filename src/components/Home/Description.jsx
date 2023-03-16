@@ -1,5 +1,5 @@
 import React from 'react';
-import Countdown from '../src/assets/countdown.gif'
+import Countdown from '../../assets/countdown.gif'
 
 const Description = () => {
   return (
