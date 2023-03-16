@@ -15,7 +15,6 @@ const Description = () => {
             dolore autem cum ullam sed odit perspiciatis. Doloribus quos velit,
             eveniet ex deserunt fuga?
           </p>
-          <button className='bg-black text-[#eeaf61] w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3'>Explore</button>
         </div>
       </div>
     </div>
