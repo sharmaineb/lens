@@ -2,6 +2,7 @@ import React from "react";
 import { BiCameraMovie } from 'react-icons/bi'
 import { GiFilmStrip } from 'react-icons/gi'
 import { ImHeadphones } from 'react-icons/im'
+import { NavLink } from "react-router-dom";
 
 const Navbar = () => {
     return (
@@ -12,10 +13,26 @@ const Navbar = () => {
         <ImHeadphones size={20}/>
         </div>
         <ul className='hidden md:flex'>
-          <li className='p-4'>Home</li>
-          <li className='p-4'>About</li>
-          <li className='p-4'>List</li>
-          <li className='p-4'>Contact</li>
+        <div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 p-4 text-[#6a0d83]'>
+        <NavLink 
+	            className={({ isActive }) => isActive ? 'nav-link-active' : 'nav-link' }
+	            to="/">Home</NavLink>
+        </div>    
+        <div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 p-4 text-[#6a0d83]'>
+        <NavLink 
+	            className={({ isActive }) => isActive ? 'nav-link-active' : 'nav-link' }
+	            to="/list">List</NavLink>
+        </div>
+        <div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 p-4 text-[#6a0d83]'>
+        <NavLink 
+	            className={({ isActive }) => isActive ? 'nav-link-active' : 'nav-link' }
+	            to="/about">About</NavLink>
+        </div>
+        <div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 p-4 text-[#6a0d83]'>
+        <NavLink 
+	            className={({ isActive }) => isActive ? 'nav-link-active' : 'nav-link' }
+	            to="/contact">Contact</NavLink>
+        </div>  
         </ul>
         </div>
     )
