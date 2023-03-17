@@ -21,17 +21,22 @@ const Navbar = () => {
         <div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 p-4 text-[#6a0d83]'>
         <NavLink 
 	            className={({ isActive }) => isActive ? 'nav-link-active' : 'nav-link' }
-	            to="/list">List</NavLink>
+	            to="/filmlist">List</NavLink>
+        </div>
+        <div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 p-4 text-[#6a0d83]'>
+        <NavLink 
+	            className={({ isActive }) => isActive ? 'nav-link-active' : 'nav-link' }
+	            to="/film">Film</NavLink>
+        </div>
+        <div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 p-4 text-[#6a0d83]'>
+        <NavLink 
+	            className={({ isActive }) => isActive ? 'nav-link-active' : 'nav-link' }
+	            to="/newsletter">Newletter</NavLink>
         </div>
         <div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 p-4 text-[#6a0d83]'>
         <NavLink 
 	            className={({ isActive }) => isActive ? 'nav-link-active' : 'nav-link' }
 	            to="/about">About</NavLink>
-        </div>
-        <div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 p-4 text-[#6a0d83]'>
-        <NavLink 
-	            className={({ isActive }) => isActive ? 'nav-link-active' : 'nav-link' }
-	            to="/contact">Newsletter</NavLink>
         </div>  
         </ul>
       </div>
