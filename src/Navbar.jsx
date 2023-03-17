@@ -3,6 +3,7 @@ import { BiCameraMovie } from 'react-icons/bi'
 import { GiFilmStrip } from 'react-icons/gi'
 import { ImHeadphones } from 'react-icons/im'
 import { NavLink } from "react-router-dom";
+import { MdTravelExplore } from 'react-icons/md'
 
 const Navbar = () => {
     return (
@@ -11,6 +12,7 @@ const Navbar = () => {
         <GiFilmStrip size={20}/>
         <BiCameraMovie size={20}/>
         <ImHeadphones size={20}/>
+        <MdTravelExplore size={20}/>
         </div>
         <ul className='hidden md:flex'>
         <div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 p-4 text-[#0E7373]'>
@@ -26,7 +28,7 @@ const Navbar = () => {
         <div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 p-4 text-[#0E7373]'>
         <NavLink 
 	            className={({ isActive }) => isActive ? 'nav-link-active' : 'nav-link' }
-	            to="/film">Film</NavLink>
+	            to="/movies">Movies</NavLink>
         </div>
         <div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 p-4 text-[#0E7373]'>
         <NavLink 

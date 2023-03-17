@@ -4,7 +4,7 @@ import Countdown from "../../assets/countdown.gif";
 import { Link } from "react-router-dom";
 import { GiFilmStrip } from 'react-icons/gi'
 import { BiCameraMovie } from 'react-icons/bi'
-import { ImHeadphones } from 'react-icons/im'
+import { MdTravelExplore } from 'react-icons/md'
 
 const Hero = () => {
   return (
@@ -39,7 +39,9 @@ const Hero = () => {
             dolore autem cum ullam sed odit perspiciatis. Doloribus quos velit,
             eveniet ex deserunt fuga?
           </p>
+          <Link to={`/movies`}>
           <button className='bg-black text-[#eeaf61] w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3'>Explore</button>
+          </Link>
         </div>
       </div>
     </div>
@@ -64,10 +66,12 @@ const Hero = () => {
                   <p className='py-2 border-b mx-8'>Placeholder</p>
                   <p className='py-2 border-b mx-8'>Placeholder</p>
               </div>
-              <button className='bg-[#eeaf61] text-[#003000] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3'>Explore</button>
+              <Link to={`/list`}>
+              <button className='bg-[#eeaf61] text-[#003000] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 flex justify-center'>Explore</button>
+              </Link>
           </div>
           <div className='w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300'>
-            <ImHeadphones size={20}/>
+            <MdTravelExplore size={20}/>
               <p className='text-center text-4xl font-bold'>Lorem Ipsum</p>
               <div className='text-center font-medium'>
                   <p className='py-2 border-b mx-8 mt-8'>Placeholder</p>
