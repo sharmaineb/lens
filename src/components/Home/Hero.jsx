@@ -1,6 +1,7 @@
 import React from "react";
 import Typed from "react-typed";
 import Countdown from "../../assets/countdown.gif";
+import { Link } from "react-router-dom";
 
 const Hero = () => {
   return (
@@ -24,9 +25,9 @@ const Hero = () => {
         <p className="md:text-2xl text-xl font-bold text-gray-500">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         </p>
-        <button className="bg-[#eeaf61] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black">
-          Here's a Button
-        </button>
+        <Link to={`/list`}>
+        <button className="bg-[#eeaf61] w-[200px] rounded-md font-medium my-6 mx-auto py-3 text-black">Here's a Button</button>
+        </Link>
         <div className="w-full bg-[#fff] py-16 px-4">
           <div className="max-w-[1240px] mx-auto grid md:grid-cols-2">
             <img
