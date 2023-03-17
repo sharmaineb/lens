@@ -8,7 +8,7 @@ const Description = () => {
         <img className='w-[400px] mx-auto my-5 px-3' src={Countdown} alt='/' />
         <div className='flex flex-col justify-center'>
           <p className='text-[#eeaf61] font-bold '>LOREM IPSUM</p>
-          <h1 className='md:text-4xl sm:text-3xl text-2xl font-bold py-2'>Lorem Ipsum Lorem Ipsum Lorem Ipsum.</h1>
+          <h1 className='md:text-4xl sm:text-3xl text-2xl font-bold py-2'>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h1>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum
             molestiae delectus culpa hic assumenda, voluptate reprehenderit

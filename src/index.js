@@ -15,10 +15,10 @@ root.render(
   <Router>
     <Routes>
       <Route path='/' element={<App />}>
-        <Route path='/home' element={<Home />} />
-        <Route path='/home' element={<Description />} />
-        <Route path='/list' element={<List />} />
-        <Route path='/details/:id' element={<Details />} />
+        <Route path="/home" element={<Home />} />
+        <Route path="/home" element={<Description />} />
+        <Route path="/list" element={<List />} />
+        <Route path="/details/:id" element={<Details />} />
       </Route>
     </Routes>
   </Router>,
