@@ -4,7 +4,7 @@ import Countdown from "../../assets/countdown.gif";
 
 const Hero = () => {
   return (
-    <div className="text-[#ce4993]">
+    <div className="text-[#0E7373]">
       <div className="max-w-[800px] mt-[-96px] w-full h-screen mx-auto text-center flex flex-col justify-center">
         <h1 className="md:text-7xl sm:text-6xl text-4xl font-bold md:py-6 text-[#eeaf61]">
           LENS.
