@@ -1,226 +1,226 @@
 [
     {
-       "title":"UC Botanical Garden at Berkeley",
-       "address":"200 Centennial Dr, Berkeley, CA",
+       "title":"Off the Grid: Fort Mason Center",
+       "address":"Parking Lot, 2 Marina Boulevard, Fort Mason Center, San Francisco, CA",
        "images":[
-          ".jpg"
+          "otg.jpg"
        ]
     },
     {
-       "title":"Clement Street SF",
-       "address":"Clement St, San Francisco, CA",
+       "title":"Sol Food",
+       "address":"903 Lincoln Ave, San Rafael, CA",
        "images":[
-          ".jpg"
+          "sol.jpg"
        ]
     },
     {
        "title":"Pier 7",
        "address":"Pier 7, San Francisco, CA",
        "images":[
-          ".jpg"
+          "pier7.jpg"
        ]
     },
     {
        "title":"SPARK Social SF",
        "address":"601 Mission Bay Boulevard North, San Francisco, CA",
        "images":[
-          ".jpg"
+          "spark.jpg"
        ]
     },
     {
        "title":"Emporium San Francisco",
        "address":"616 Divisadero St, San Francisco, CA",
        "images":[
-          ".jpg"
+          "emporium.jpg"
        ]
     },
     {
        "title":"Foreign Cinema",
        "address":"2534 Mission St, San Francisco, CA",
        "images":[
-          ".jpg"
+          "fcsf.jpg"
        ]
     },
     {
        "title":"San Mateo Japanese Garden",
        "address":"50 E 5th Ave, San Mateo, CA",
        "images":[
-          ".jpg"
+          "smjg.jpg"
        ]
     },
     {
        "title":"Sutro Baths",
        "address":"1004 Point Lobos Ave, San Francisco, CA",
        "images":[
-          ".jpg"
+          "sutro.jpg"
        ]
     },
     {
        "title":"Mission District Murals",
        "address":"Mission District, San Francisco, CA",
        "images":[
-          ".jpg"
+          "mission.jpg"
        ]
     },
     {
        "title":"Green Apple Books",
        "address":"506 Clement St, San Francisco, CA",
        "images":[
-          ".jpg"
+          "green.jpg"
        ]
     },
     {
       "title":"Point Bonita Lighthouse",
       "address":"San Francisco Bay entrance in the Marin Headlands, Sausalito, CA",
       "images":[
-         ".jpg"
+         "lighthouse.jpg"
       ]
    },
    {
     "title":"Capitola Beach",
     "address":"San Jose Ave and Esplanade, Capitola, CA",
     "images":[
-       ".jpg"
+       "capitola.jpg"
     ]
  },
  {
     "title":"California Academy of Sciences",
     "address":"55 Music Concourse Dr, San Francisco, CA",
     "images":[
-       ".jpg"
+       "caos.jpg"
     ]
  },
  {
     "title":"Tank Garage Winery",
     "address":"1020 Foothill Blvd, Calistoga, CA",
     "images":[
-       ".jpg"
+       "tgw.jpg"
     ]
  },
  {
     "title":"Fort Point National Historic Site",
     "address":"201 Marine Dr, San Francisco, CA ",
     "images":[
-       ".jpg"
+       "fp.jpg"
+    ]
+ },
+ {
+    "title":"States Coffee",
+    "address":"700 1st St, Benicia, CA",
+    "images":[
+       "states.jpg"
     ]
  },
  {
     "title":"Vallejo Farmers' Market",
     "address":"400 Georgia St, Vallejo, CA",
     "images":[
-       ".jpg"
-    ]
- },
- {
-    "title":"Marin Headlands",
-    "address":"Sausalito, CA",
-    "images":[
-       ".jpg"
+       "vallejo.jpg"
     ]
  },
  {
     "title":"Urban Putt",
     "address":"1096 S Van Ness Ave, San Francisco, CA",
     "images":[
-       ".jpg"
+       "up.jpg"
     ]
  },
  {
     "title":"Brown Downtown Napa",
     "address":"1005 Coombs St, Napa, CA",
     "images":[
-       ".jpg"
+       "brown.jpg"
     ]
  },
  {
-    "title":"Church Of 8 Wheels",
-    "address":"554 Fillmore St, San Francisco, CA",
+    "title":"6th Avenue Skate Park",
+    "address":"Golden Gate Park, San Francisco, CA",
     "images":[
-       ".jpg"
+       "wheels.jpg"
     ]
  },
  {
-    "title":"Sea Bowl",
-    "address":"4625 Coast Hwy, Pacifica, CA",
+    "title":"Mission Bowling Club",
+    "address":"3176 17th St, San Francisco, CA",
     "images":[
-       ".jpg"
+       "mbc.jpg"
     ]
  },
  {
    "title":"Cadet Wine & Beer Bar",
    "address":"930 Franklin St, Napa, CA",
    "images":[
-      ".jpg"
+      "cadet.jpg"
    ]
 },
 {
     "title":"Oakland Museum of California",
     "address":"1000 Oak St, Oakland, CA",
     "images":[
-       ".jpg"
+       "oak.jpg"
     ]
  },
  {
     "title":"Palace of Fine Arts",
     "address":"3601 Lyon St, San Francisco, CA",
     "images":[
-       ".jpg"
+       "pofa.jpg"
     ]
  },
  {
-    "title":"Arizona Garden",
+    "title":"Arizona Garden at Stanford University",
     "address":"Stanford, CA",
     "images":[
-       ".jpg"
+       "stanford.jpg"
     ]
  },
  {
     "title":"Grand Staircase",
     "address":"399 Mullinix Way, San Jose, CA",
     "images":[
-       ".jpg"
+       "sanjose.jpg"
     ]
  },
  {
     "title":"Lovers' Lane Trail",
     "address":"Lover's Ln, San Francisco, CA",
     "images":[
-       ".jpg"
+       "llt.jpg"
     ]
  },
  {
     "title":"Good Good Culture Club",
     "address":"3560 18th St, San Francisco, CA",
     "images":[
-       ".jpg"
+       "ggcc.jpg"
     ]
  },
  {
     "title":"Battery Spencer",
     "address":"Conzelman Rd, Sausalito, CA",
     "images":[
-       ".jpg"
+       "bs.jpg"
     ]
  },
  {
     "title":"Mare Island Brewing Co.- Coal Shed Brewery",
     "address":"850 Nimitz Ave, Vallejo, CA",
     "images":[
-       ".jpg"
+       "mibc.jpg"
     ]
  },
  {
-    "title":"Sonoma Coast State Park",
-    "address":"3095 CA-1, Bodega Bay, CA",
+    "title":"Santa Cruz Beach Boardwalk",
+    "address":"400 Beach St, Santa Cruz, CA",
     "images":[
-       ".jpg"
+       "scbb.jpg"
     ]
  },
  {
-    "title":"La Taqueria",
-    "address":"2889 Mission St, San Francisco, CA",
+    "title":"Disneyland Resort",
+    "address":"Disneyland Dr, Anaheim, CA",
     "images":[
-       ".jpg"
+       "disneyland.jpg"
     ]
  }
 ]
