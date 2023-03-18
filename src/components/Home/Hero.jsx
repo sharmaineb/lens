@@ -1,6 +1,6 @@
 import React from "react";
 import Typed from "react-typed";
-import Music from '../../assets/music.jpg';
+// import Music from '../../assets/music.jpg';
 import Camera from '../../assets/camera.jpg';
 import Eeaao from '../../assets/eeaao.jpg';
 import SFGB from '../../assets/sf.jpg';
