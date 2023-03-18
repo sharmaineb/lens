@@ -1,0 +1,226 @@
+[
+    {
+       "title":"UC Botanical Garden at Berkeley",
+       "address":"200 Centennial Dr, Berkeley, CA",
+       "images":[
+          ".jpg"
+       ]
+    },
+    {
+       "title":"Clement Street SF",
+       "address":"Clement St, San Francisco, CA",
+       "images":[
+          ".jpg"
+       ]
+    },
+    {
+       "title":"Pier 7",
+       "address":"Pier 7, San Francisco, CA",
+       "images":[
+          ".jpg"
+       ]
+    },
+    {
+       "title":"SPARK Social SF",
+       "address":"601 Mission Bay Boulevard North, San Francisco, CA",
+       "images":[
+          ".jpg"
+       ]
+    },
+    {
+       "title":"Emporium San Francisco",
+       "address":"616 Divisadero St, San Francisco, CA",
+       "images":[
+          ".jpg"
+       ]
+    },
+    {
+       "title":"Foreign Cinema",
+       "address":"2534 Mission St, San Francisco, CA",
+       "images":[
+          ".jpg"
+       ]
+    },
+    {
+       "title":"San Mateo Japanese Garden",
+       "address":"50 E 5th Ave, San Mateo, CA",
+       "images":[
+          ".jpg"
+       ]
+    },
+    {
+       "title":"Sutro Baths",
+       "address":"1004 Point Lobos Ave, San Francisco, CA",
+       "images":[
+          ".jpg"
+       ]
+    },
+    {
+       "title":"Mission District Murals",
+       "address":"Mission District, San Francisco, CA",
+       "images":[
+          ".jpg"
+       ]
+    },
+    {
+       "title":"Green Apple Books",
+       "address":"506 Clement St, San Francisco, CA",
+       "images":[
+          ".jpg"
+       ]
+    },
+    {
+      "title":"Point Bonita Lighthouse",
+      "address":"San Francisco Bay entrance in the Marin Headlands, Sausalito, CA",
+      "images":[
+         ".jpg"
+      ]
+   },
+   {
+    "title":"Capitola Beach",
+    "address":"San Jose Ave and Esplanade, Capitola, CA",
+    "images":[
+       ".jpg"
+    ]
+ },
+ {
+    "title":"California Academy of Sciences",
+    "address":"55 Music Concourse Dr, San Francisco, CA",
+    "images":[
+       ".jpg"
+    ]
+ },
+ {
+    "title":"Tank Garage Winery",
+    "address":"1020 Foothill Blvd, Calistoga, CA",
+    "images":[
+       ".jpg"
+    ]
+ },
+ {
+    "title":"Fort Point National Historic Site",
+    "address":"201 Marine Dr, San Francisco, CA ",
+    "images":[
+       ".jpg"
+    ]
+ },
+ {
+    "title":"Vallejo Farmers' Market",
+    "address":"400 Georgia St, Vallejo, CA",
+    "images":[
+       ".jpg"
+    ]
+ },
+ {
+    "title":"Marin Headlands",
+    "address":"Sausalito, CA",
+    "images":[
+       ".jpg"
+    ]
+ },
+ {
+    "title":"Urban Putt",
+    "address":"1096 S Van Ness Ave, San Francisco, CA",
+    "images":[
+       ".jpg"
+    ]
+ },
+ {
+    "title":"Brown Downtown Napa",
+    "address":"1005 Coombs St, Napa, CA",
+    "images":[
+       ".jpg"
+    ]
+ },
+ {
+    "title":"Church Of 8 Wheels",
+    "address":"554 Fillmore St, San Francisco, CA",
+    "images":[
+       ".jpg"
+    ]
+ },
+ {
+    "title":"Sea Bowl",
+    "address":"4625 Coast Hwy, Pacifica, CA",
+    "images":[
+       ".jpg"
+    ]
+ },
+ {
+   "title":"Cadet Wine & Beer Bar",
+   "address":"930 Franklin St, Napa, CA",
+   "images":[
+      ".jpg"
+   ]
+},
+{
+    "title":"Oakland Museum of California",
+    "address":"1000 Oak St, Oakland, CA",
+    "images":[
+       ".jpg"
+    ]
+ },
+ {
+    "title":"Palace of Fine Arts",
+    "address":"3601 Lyon St, San Francisco, CA",
+    "images":[
+       ".jpg"
+    ]
+ },
+ {
+    "title":"Arizona Garden",
+    "address":"Stanford, CA",
+    "images":[
+       ".jpg"
+    ]
+ },
+ {
+    "title":"Grand Staircase",
+    "address":"399 Mullinix Way, San Jose, CA",
+    "images":[
+       ".jpg"
+    ]
+ },
+ {
+    "title":"Lovers' Lane Trail",
+    "address":"Lover's Ln, San Francisco, CA",
+    "images":[
+       ".jpg"
+    ]
+ },
+ {
+    "title":"Good Good Culture Club",
+    "address":"3560 18th St, San Francisco, CA",
+    "images":[
+       ".jpg"
+    ]
+ },
+ {
+    "title":"Battery Spencer",
+    "address":"Conzelman Rd, Sausalito, CA",
+    "images":[
+       ".jpg"
+    ]
+ },
+ {
+    "title":"Mare Island Brewing Co.- Coal Shed Brewery",
+    "address":"850 Nimitz Ave, Vallejo, CA",
+    "images":[
+       ".jpg"
+    ]
+ },
+ {
+    "title":"Sonoma Coast State Park",
+    "address":"3095 CA-1, Bodega Bay, CA",
+    "images":[
+       ".jpg"
+    ]
+ },
+ {
+    "title":"La Taqueria",
+    "address":"2889 Mission St, San Francisco, CA",
+    "images":[
+       ".jpg"
+    ]
+ }
+]

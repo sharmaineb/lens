@@ -7,7 +7,7 @@
           "portra400.jpg"
        ],
        "album":"Ctrl - SZA",
-       "song":"Song: Drew Barrymore",
+       "song":"Normal Girl",
        "features": [
         "szactrl.jpg"
        ]
@@ -19,7 +19,7 @@
           "portra800.jpg"
         ],
         "album":"SOS - SZA",
-        "song":"Open Arms",
+        "song":"Kill Bill",
         "features": [
         "szasos.jpg"
         ]
@@ -359,5 +359,29 @@
        "features": [
        "theweeknd.jpg"
        ]
-    }
+    },
+    {
+      "title":"Kodak 50D/7203",
+      "desc":"Kodak VISION3 50D is a low-speed daylight-balanced color negative movie film characterized by its ability to record a wide dynamic range with increased highlight sensitivity.",
+      "images":[
+         "k50d.jpg"
+      ],
+      "album":"Lorem Ipsum",
+      "song":"Lorem Ipsum",
+      "features": [
+      "lizzo.jpg"
+      ]
+   },
+   {
+      "title":"Kodak 500T/7219",
+      "desc":"KODAK VISION3 500T Color Negative Film 7219 is a high speed film featuring improved exposure latitude-so you can capture an amazing amount of shadow detail with noticeably lower grain.",
+      "images":[
+         "k500t.jpg"
+      ],
+      "album":"Lorem Ipsum",
+      "song":"Lorem Ipsum",
+      "features": [
+      "theweeknd.jpg"
+      ]
+   }
 ]

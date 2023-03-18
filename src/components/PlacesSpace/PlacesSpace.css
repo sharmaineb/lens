@@ -1,0 +1,46 @@
+.PlacesSpace {
+    width: 100%;
+    text-align: center;
+    position: relative;
+  }
+  
+.PlacesSpace > img {
+  width: 100%;
+  height: auto;
+}
+
+.PlacesSpace .PlacesSpace-title {
+  color: #000000;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+}
+
+.PlacesSpace h1 {
+  display: flex;
+  position: absolute;
+  flex-direction: column;
+  justify-content: center;
+  align-self: center;
+  align-items: center;
+	left: 2.5rem;
+	top: 0;
+	margin: 0;
+	font-weight: lighter;
+	padding: 1.0rem;
+  text-align: center;
+}
+
+.PlacesSpace .POPOSSpace-info {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	text-align: right;
+}
+
+.POPOSSpace .POPOSSpace-info div {
+	display: inline-block;
+	padding: 0.25em 0.5em;
+}
