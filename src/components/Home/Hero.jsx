@@ -14,14 +14,6 @@ const Hero = () => {
     <div className="text-[#0E7373] my-20 p-12">
        <div className="max-w-[800px] mt-[-96px] w-full h-screen mx-auto text-center flex flex-col justify-center">
          <h1 className="md:text-7xl sm:text-6xl text-4xl font-bold md:py-6 text-[#eeaf61]">LENS.</h1>
-         <div className='flex'>
-          <img className='w-[450px] mx-auto my-5 px-7' src={Music} alt='/' />
-          <img className='w-[400px] mx-auto my-5 px-7' src={Camera} alt='/' />
-          </div>
-          <div className='flex'>
-          <img className='w-[400px] mx-auto my-5 px-7' src={Eeaao} alt='/' />
-          <img className='w-[400px] mx-auto my-5 px-7' src={SFGB} alt='/' />
-          </div>
          <div className="flex justify-center items-center">
            <p className="md:text-5xl sm:text-4xl text-xl font-bold py-4">Lorem Ipsum:</p>
            <Typed
@@ -42,11 +34,9 @@ const Hero = () => {
       <div className='max-w-[1240px] mx-auto grid md:grid-cols-3 gap-8'>
           <div className='w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300 justify-center'>
           <BiCameraMovie size={20}/>
-              <p className='text-center text-4xl font-bold'>Lorem Ipsum</p>
+              <p className='text-center text-3xl font-bold'>Lorem Ipsum</p>
               <div className='text-center font-medium'>
-                  <p className='py-2 border-b mx-8 mt-8'>Placeholder</p>
-                  <p className='py-2 border-b mx-8'>Placeholder</p>
-                  <p className='py-2 border-b mx-8'>Placeholder</p>
+              <img className='w-[450px] mx-auto my-5 px-7' src={Eeaao} alt='/' />
               </div>
               <Link to={`/movies`}>
               <button className='bg-[#eeaf61] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 flex justify-center'>Explore</button>
@@ -54,11 +44,9 @@ const Hero = () => {
           </div>
           <div className='w-full shadow-xl flex flex-col p-4 md:my-0 my-8 rounded-lg hover:scale-105 duration-300'>
             <GiFilmStrip size={20}/>
-              <p className='text-center text-4xl font-bold'>Lorem Ipsum</p>
+              <p className='text-center text-3xl font-bold'>Lorem Ipsum</p>
               <div className='text-center font-medium'>
-                  <p className='py-2 border-b mx-8 mt-8'>Placeholder</p>
-                  <p className='py-2 border-b mx-8'>Placeholder</p>
-                  <p className='py-2 border-b mx-8'>Placeholder</p>
+              <img className='w-[450px] mx-auto my-5 px-7' src={Camera} alt='/' />
               </div>
               <Link to={`/list`}>
               <button className='bg-[#eeaf61] text-[#003000] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 flex justify-center'>Explore</button>
@@ -66,12 +54,9 @@ const Hero = () => {
           </div>
           <div className='w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300'>
             <MdTravelExplore size={20}/>
-              <p className='text-center text-4xl font-bold'>Lorem Ipsum</p>
+              <p className='text-center text-3xl font-bold'>Lorem Ipsum</p>
               <div className='text-center font-medium'>
-                  <p className='py-2 border-b mx-8 mt-8'>Placeholder</p>
-                  <p className='py-2 border-b mx-8'>Placeholder</p>
-                  <p className='py-2 border-b mx-8'>Placeholder</p>
-                  {/* insert img here */}
+              <img className='w-[450px] mx-auto my-5 px-7' src={SFGB} alt='/' />
               </div>
               <Link to={`/places`}>
               <button className='bg-[#eeaf61] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 flex justify-center'>Explore</button>
