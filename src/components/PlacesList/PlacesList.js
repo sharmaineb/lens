@@ -27,7 +27,7 @@ function PlacesList() {
 			<form>
 				<input
 					value={query}
-					placeholder="Search"
+					placeholder="Search By City"
 					onChange={(e) => setQuery(e.target.value)}
 				/>
 			</form>
