@@ -16,7 +16,7 @@ function Details(props) {
       </div>
       <div className='Details-info'>
         <h1 className='Details-title'>{ title }</h1>
-        <p className='Details-desc'>{ desc }</p>        
+        <p className='Details-desc'><strong>Film Description: </strong>{ desc }</p>        
         <p><strong>Album & Musician:</strong> { album }</p>
         <p><strong>Song:</strong> { song }</p>
         <FilmFeatureList features={features} />
