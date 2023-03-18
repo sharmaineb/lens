@@ -33,6 +33,11 @@ const Navbar = () => {
         <div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 p-4 text-[#0E7373]'>
         <NavLink 
 	            className={({ isActive }) => isActive ? 'nav-link-active' : 'nav-link' }
+	            to="/places">Places</NavLink>
+        </div>
+        <div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 p-4 text-[#0E7373]'>
+        <NavLink 
+	            className={({ isActive }) => isActive ? 'nav-link-active' : 'nav-link' }
 	            to="/about">About</NavLink>
         </div>  
         </ul>

@@ -6,6 +6,7 @@ import List from './components/List/List'
 import Home from './components/Home/Hero'
 import Details from './components/Details/Details';
 import { HashRouter as Router, Routes, Route } from 'react-router-dom';
+import Movies from './components/Movies/Movies';
 
 const rootElement = document.getElementById('root');
 const root = createRoot(rootElement);
@@ -16,6 +17,7 @@ root.render(
       <Route path='/' element={<App />}>
         <Route path="/home" element={<Home />} />
         <Route path="/list" element={<List />} />
+        <Route path="/movies" element={<Movies />} />
         <Route path="/details/:id" element={<Details />} />
       </Route>
     </Routes>
