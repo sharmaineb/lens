@@ -14,6 +14,7 @@ const Navbar = () => {
         <BiCameraMovie size={20}/>
         <ImHeadphones size={20}/>
         <MdTravelExplore size={20}/>
+        <h2 className="font-extrabold">LENS.</h2>
         </div>
         <ul className='md:flex'>
         <div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 p-4 text-[#0E7373]'>
