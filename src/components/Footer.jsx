@@ -13,7 +13,7 @@ import { MdTravelExplore } from 'react-icons/md'
 
 const Footer = () => {
   return (
-    <div className='max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-8 text-gray-300 bg-[#F2B6DD]'>
+    <div className='max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-8 text-gray-300 bg-[#F2B6DD] mt-10'>
       <div>
         <h1 className='w-full text-3xl font-bold text-[#f1f1f1]'>LENS.</h1>
         <p className='py-4 text-[#f1f1f1]'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id odit ullam iste repellat consequatur libero reiciendis, blanditiis accusantium.</p>
