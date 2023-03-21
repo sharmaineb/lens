@@ -4,6 +4,7 @@ import Typed from "react-typed";
 import Camera from '../../assets/camera.jpg';
 import Eeaao from '../../assets/eeaao.jpg';
 import SFGB from '../../assets/sf.jpg';
+import Reel from '../../assets/reel.jpg'
 import { Link } from "react-router-dom";
 import { GiFilmStrip } from 'react-icons/gi'
 import { BiCameraMovie } from 'react-icons/bi'
@@ -11,18 +12,22 @@ import { MdTravelExplore } from 'react-icons/md'
 
 const Hero = () => {
   return (
-    <div className="text-[#0E7373] my-20 p-12">
+    <div className="text-[#0E7373]">
        <div className="max-w-[800px] mt-[-96px] w-full h-screen mx-auto text-center flex flex-col justify-center">
-         {/* <h1 className="md:text-7xl sm:text-6xl text-4xl font-bold md:py-6 text-[#eeaf61]">LENS.</h1> */}
          <div className="flex justify-center items-center">
-           <p className="md:text-5xl sm:text-4xl text-xl font-bold py-4">Lorem Ipsum:</p>
+         <div className='max-w-[1240px] mx-auto grid md:grid-cols-2'>  
+        <img className='w-[400px] mx-auto my-5 px-3' src={Reel} alt='/' />
+        </div>
+        <div className="flex justify-center items-center ">
+           {/* <p className="md:text-5xl sm:text-4xl text-xl font-bold py-3">Lorem Ipsum:</p> */}
            <Typed
              className="md:text-5xl sm:text-4xl text-xl font-bold md:pl-4 pl-2"
-             strings={["Camera Film", "Music", "Movies"]}
+             strings={["Camera Film.", "Music.", "Movies."]}
              typeSpeed={130}
              backSpeed={150}
              loop
            />
+        </div>
          </div>
          <p className="md:text-2xl text-xl font-bold text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
         <Link to={`/about`}>
