@@ -311,7 +311,8 @@
        "images":[
           "dracula.jpg"
        ],
-       "album":"The Renaissance - Q-Tip",
+       "album":"The Renaissance",
+       "musician":"Q-Tip",
        "song":"Life is Better (feat. Norah Jones)",
        "features": [
        "qtip.jpg"
@@ -323,7 +324,8 @@
        "images":[
           "positive.jpg"
        ],
-       "album":"Boys & Girls - Alabama Shakes",
+       "album":"Boys & Girls",
+       "musician":"Alabama Shakes",
        "song":"I Found You",
        "features": [
        "alabamashakes.jpg"
@@ -335,7 +337,8 @@
        "images":[
           "trix.jpg"
        ],
-       "album":"Pain in My Heart - Otis Redding",
+       "album":"Pain in My Heart",
+       "musician":"Otis Redding",
        "song":"You Send Me",
        "features": [
        "otis.jpg"
@@ -347,7 +350,8 @@
        "images":[
           "portra160.jpg"
        ],
-       "album":"Imagination - Gladys Knight & The Pips",
+       "album":"Imagination",
+       "musician":"Gladys Knight & The Pips",
        "song":"Best Thing That Ever Happen",
        "features": [
        "gktp.jpg"
@@ -359,7 +363,8 @@
        "images":[
           "amber.jpg"
        ],
-       "album":"Closer (feat. H.E.R.) - Saweetie",
+       "album":"Closer (feat. H.E.R.)",
+       "musician":"Saweetie",
        "song":"Closer (feat. H.E.R.)",
        "features": [
        "saweetie.jpg"
@@ -371,7 +376,8 @@
        "images":[
           "kentmerepan.jpg"
        ],
-       "album":"Special - Lizzo",
+       "album":"Special",
+       "musician":"Lizzo",
        "song":"Special (feat. SZA)",
        "features": [
        "lizzo.jpg"
@@ -383,7 +389,8 @@
        "images":[
           "rollei.jpg"
        ],
-       "album":"Heaux Tales - Jazmine Sullivan",
+       "album":"Heaux Tales",
+       "musician":"Jazmine Sullivan",
        "song":"Pick Up Your Feelings",
        "features": [
        "jsullivan.jpg"
@@ -395,7 +402,8 @@
       "images":[
          "k50d.jpg"
       ],
-      "album":"2014 Forest Hills Drive - J. Cole",
+      "album":"2014 Forest Hills Drive",
+      "musician":"J. Cole",
       "song":"Love Yourz",
       "features": [
       "jcole.jpg"
@@ -407,7 +415,8 @@
       "images":[
          "k500t.jpg"
       ],
-      "album":"At Last! - Etta James",
+      "album":"At Last!",
+      "musician":"Etta James",
       "song":"A Sunday Kind of Love",
       "features": [
       "ettajames.jpg"
@@ -419,7 +428,8 @@
       "images":[
          "k200t.jpg"
       ],
-      "album":"I'm Still in Love With You - Al Green",
+      "album":"I'm Still in Love With You",
+      "musician":"Al Green",
       "song":"Love and Happiness",
       "features": [
       "algreen.jpg"
@@ -431,7 +441,8 @@
       "images":[
          "7266.jpg"
       ],
-      "album":"Tango In The Night - Fleetwood Mac",
+      "album":"Tango In The Night",
+      "musician":"Fleetwood Mac",
       "song":"Everywhere",
       "features": [
       "fmtitn.jpg"
@@ -443,7 +454,8 @@
       "images":[
          "k100d.jpg"
       ],
-      "album":"What's Going On - Marvin Gaye",
+      "album":"What's Going On",
+      "musician":"Marvin Gaye",
       "song":"What's Going On",
       "features": [
       "marvingaye.jpg"
@@ -455,7 +467,8 @@
       "images":[
          "chromepurple.jpg"
       ],
-      "album":"CINEMA - The Marías",
+      "album":"CINEMA",
+      "musician":"The Marías",
       "song":"Little by Little",
       "features": [
       "themarias.jpg"
@@ -467,7 +480,8 @@
       "images":[
          "p30.jpg"
       ],
-      "album":"Cinema Paradiso (Original Motion Picture Soundtrack) - Ennio Morricone",
+      "album":"Cinema Paradiso (Original Motion Picture Soundtrack)",
+      "musician":"Ennio Morricone",
       "song":"Tema d'Amore Per Nata",
       "features": [
       "cinemaparadisomusic.jpg"
@@ -479,7 +493,8 @@
       "images":[
          "cinestillbw.jpg"
       ],
-      "album":"Songs in the Key of Life - Stevie Wonder",
+      "album":"Songs in the Key of Life",
+      "musician":"Stevie Wonder",
       "song":"Sir Duke",
       "features": [
       "steviewonder.jpg"
@@ -491,7 +506,8 @@
       "images":[
          "kono.jpg"
       ],
-      "album":"DECIDE - Djo",
+      "album":"DECIDE",
+      "musician":"Djo",
       "song":"End of Beginning",
       "features": [
       "djo.jpg"
@@ -503,7 +519,8 @@
       "images":[
          "low.jpg"
       ],
-      "album":"J Boog - EP - J Boog",
+      "album":"J Boog - EP",
+      "musician":"J Boog",
       "song":"Let's Do It Again",
       "features": [
       "jboog.jpg"
@@ -515,7 +532,8 @@
       "images":[
          "sonic.jpg"
       ],
-      "album":"Son of a Pimp - Mistah F.A.B.",
+      "album":"Son of a Pimp",
+      "musician":"Mistah F.A.B.",
       "song":"Still Feelin' It",
       "features": [
       "mistahfab.jpg"
@@ -527,7 +545,8 @@
       "images":[
          "postdam.jpg"
       ],
-      "album":"Tapestry - Carole King",
+      "album":"Tapestry",
+      "musician":"Carole King",
       "song":"So Far Away",
       "features": [
       "caroleking.jpg"
@@ -539,7 +558,8 @@
       "images":[
          "p3200.jpg"
       ],
-      "album":"These Streets - Paolo Nutini",
+      "album":"These Streets",
+      "musician":"Paolo Nutini",
       "song":"Last Request",
       "features": [
       "paolonutini.jpg"
@@ -551,7 +571,8 @@
       "images":[
          "jchsp.jpg"
       ],
-      "album":"Venice - Anderson .Paak",
+      "album":"Venice",
+      "musician":"Anderson .Paak",
       "song":"Might Be",
       "features": [
       "ap.jpg"
@@ -563,7 +584,8 @@
       "images":[
          "konomoon.jpg"
       ],
-      "album":"Ella Fitzgerald Sings the Cole Porter Songbook - Ella Fitzgerald",
+      "album":"Ella Fitzgerald Sings the Cole Porter Songbook",
+      "musician":"Ella Fitzgerald",
       "song":"Ev'ry Time We Say Goodbye",
       "features": [
       "ellafitzgerald.jpg"
@@ -575,7 +597,8 @@
       "images":[
          "lomographyfantome.jpg"
       ],
-      "album":"Chapters - Yuna",
+      "album":"Chapters",
+      "musician":"Yuna",
       "song":"All I Do",
       "features": [
       "yuna.jpg"
@@ -587,8 +610,9 @@
       "images":[
          "sunstroke.jpg"
       ],
-      "album":"Linger Awhile - Samara Joy",
-      "song":"I'm Cofessin; (That I Love You)",
+      "album":"Linger Awhile",
+      "musician":"Samara Joy",
+      "song":"I'm Cofessin' (That I Love You)",
       "features": [
       "samarajoy.jpg"
       ]
@@ -599,7 +623,8 @@
       "images":[
          "cinefilm.jpg"
       ],
-      "album":"Flower Boy - Tyler, The Creator",
+      "album":"Flower Boy",
+      "musician":"Tyler, The Creator",
       "song":"See You Again (feat. Kali Uchis)",
       "features": [
       "tyler.jpg"
