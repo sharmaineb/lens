@@ -1,9 +1,7 @@
 import React from "react";
 import Typed from "react-typed";
-// import Music from '../../assets/music.jpg';
-import Camera from '../../assets/camera.jpg';
-import Eeaao from '../../assets/eeaao.jpg';
-import SFGB from '../../assets/sf.jpg';
+import Movie from '../../assets/movies.jpg'
+import SF from '../../assets/sf.jpg'
 import Reel from '../../assets/reel.jpg'
 import { Link } from "react-router-dom";
 import { GiFilmStrip } from 'react-icons/gi'
@@ -15,11 +13,8 @@ const Hero = () => {
     <div className="text-[#0E7373]">
        <div className="max-w-[800px] mt-[-96px] w-full h-screen mx-auto text-center flex flex-col justify-center">
          <div className="flex justify-center items-center">
-         <div className='max-w-[1240px] mx-auto grid md:grid-cols-2'>  
-        <img className='w-[400px] mx-auto my-5 px-3' src={Reel} alt='/' />
-        </div>
         <div className="flex justify-center items-center ">
-           {/* <p className="md:text-5xl sm:text-4xl text-xl font-bold py-3">Lorem Ipsum:</p> */}
+           <p className="md:text-5xl sm:text-4xl text-xl font-bold py-3">Discover:</p>
            <Typed
              className="md:text-5xl sm:text-4xl text-xl font-bold md:pl-4 pl-2"
              strings={["Camera Film.", "Music.", "Movies."]}
@@ -41,7 +36,7 @@ const Hero = () => {
           <BiCameraMovie size={20}/>
               <p className='text-center text-3xl font-bold'>Lorem Ipsum</p>
               <div className='text-center font-medium'>
-              <img className='w-[450px] mx-auto my-5 px-7' src={Eeaao} alt='/' />
+              <img className='w-[450px] mx-auto my-5 px-7' src={Movie} alt='/' />
               </div>
               <Link to={`/movies`}>
               <button className='bg-[#F2E63D] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 flex justify-center'>Explore</button>
@@ -51,7 +46,7 @@ const Hero = () => {
             <GiFilmStrip size={20}/>
               <p className='text-center text-3xl font-bold'>Lorem Ipsum</p>
               <div className='text-center font-medium'>
-              <img className='w-[450px] mx-auto my-5 px-7' src={Camera} alt='/' />
+              <img className='w-[450px] mx-auto my-5 px-7' src={Reel} alt='/' />
               </div>
               <Link to={`/list`}>
               <button className='bg-[#F2E63D] text-[#003000] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 flex justify-center'>Explore</button>
@@ -61,7 +56,7 @@ const Hero = () => {
             <MdTravelExplore size={20}/>
               <p className='text-center text-3xl font-bold'>Lorem Ipsum</p>
               <div className='text-center font-medium'>
-              <img className='w-[450px] mx-auto my-5 px-7' src={SFGB} alt='/' />
+              <img className='w-[450px] mx-auto my-5 px-7' src={SF} alt='/' />
               </div>
               <Link to={`/places`}>
               <button className='bg-[#F2E63D] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 flex justify-center'>Explore</button>

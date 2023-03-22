@@ -3,6 +3,7 @@ import FilmSpace from '../FilmSpace/FilmSpace'
 import data from '../../filmdata';
 import { useState } from 'react'
 import './List.css'
+import Reel from '../../assets/reel.jpg'
 
 function List() {
   const [ query, setQuery ] = useState('');
@@ -21,6 +22,7 @@ function List() {
 
   return (
     <div className="Search">
+      <img className='w-[400px] mx-auto my-5 px-3' src={Reel} alt='/' />
 			<form>
 				<input
 					value={query}

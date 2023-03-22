@@ -3,6 +3,7 @@ import PlacesSpace from '../PlacesSpace/PlacesSpace';
 import './PlacesList.css';
 import data from '../../places-data';
 import { useState } from 'react'
+import GGB from '../../assets/ggb.jpg'
 
 function PlacesList() {
   const [ query, setQuery ] = useState('');
@@ -24,6 +25,7 @@ function PlacesList() {
 
   return (
     <div className="Search">
+      <img className='w-[400px] mx-auto my-5 px-3' src={GGB} alt='/' />
 			<form>
 				<input
 					value={query}
