@@ -6,10 +6,14 @@
        "images":[
           "portra400.jpg"
        ],
-       "album":"Ctrl - SZA",
+       "album":"Ctrl",
+       "musician": "SZA",
        "song":"Normal Girl",
        "features": [
         "szactrl.jpg"
+       ],
+       "movie": [
+         "rihanna.jpg"
        ]
     },
     {
@@ -18,11 +22,15 @@
        "images":[
           "portra800.jpg"
         ],
-        "album":"SOS - SZA",
+        "album":"SOS",
+        "musician": "SZA",
         "song":"Kill Bill",
         "features": [
         "szasos.jpg"
-        ]
+        ],
+        "movie": [
+         "rihanna.jpg"
+       ]
     },
     {
        "title":"Cinestill 800t",
@@ -30,7 +38,8 @@
        "images":[
           "cinestill800.jpg"
         ],
-        "album":"Anti - Rihanna",
+        "album":"Anti",
+        "musician": "Rihanna",
         "song":"Needed Me",
         "features": [
         "rihanna.jpg"
@@ -42,7 +51,8 @@
        "images":[
           "fujisuperia.jpg"
         ],
-        "album":"Harry's House - Harry Styles",
+        "album":"Harry's House",
+        "musician":"Harry Styles",
         "song":"Satellite",
         "features": [
         "harry.jpg"
@@ -54,7 +64,8 @@
        "images":[
           "lomography800.jpg"
         ],
-        "album":"Wildheart - Miguel",
+        "album":"Wildheart",
+        "musician":"Miguel",
         "song":"Waves (Tame Impala Remix)",
         "features": [
         "miguel.jpg"
@@ -66,7 +77,8 @@
        "images":[
           "lomochrome.jpg"
         ],
-        "album":"DAMN. - Kendrick Lamar",
+        "album":"DAMN.",
+        "musician":"Kendrick Lamar",
         "song":"LOVE. (FEAT. ZACARI)",
         "features": [
         "kendrick.jpg"
@@ -78,7 +90,8 @@
        "images":[
           "gold200.jpg"
         ],
-        "album":"That's The Way Of The World - Earth, Wind & Fire",
+        "album":"That's The Way Of The World",
+        "musician":"Earth, Wind & Fire",
         "song":"Reasons",
         "features": [
         "ewf.jpg"
@@ -90,7 +103,8 @@
        "images":[
           "fujiprovia100.jpg"
         ],
-        "album":"Diamond Life - Sade",
+        "album":"Diamond Life",
+        "musician":"Sade",
         "song":"Your Love Is King",
         "features": [
         "sade.jpg"
@@ -102,7 +116,8 @@
        "images":[
           "cinestill400.jpg"
         ],
-        "album":"blond - Frank Ocean",
+        "album":"blond",
+        "musician":"Frank Ocean",
         "song":"Self Control",
         "features": [
         "frankocean.jpg"
@@ -114,7 +129,8 @@
        "images":[
           "kodaktmax.jpg"
         ],
-        "album":"The Miseducation of Lauryn Hill - Lauryn Hill",
+        "album":"The Miseducation of Lauryn Hill",
+        "musician":"Lauryn Hill",
         "song":"Tell Him (Live)",
         "features": [
         "laurynhill.jpg"
@@ -126,7 +142,8 @@
         "images":[
            "metropolis.jpg"
         ],
-        "album":"Currents - Tame Impala",
+        "album":"Currents",
+        "musician":"Tame Impala",
         "song":"Yes I'm Changing",
         "features": [
         "tameimpala.jpg"
@@ -138,7 +155,8 @@
         "images":[
            "fujivelvia.jpg"
         ],
-        "album":"Favourite Worst Nightmare - Arctic Monkeys",
+        "album":"Favourite Worst Nightmare",
+        "musician":"Arctic Monkeys",
         "song":"Fluorescent Adolescent",
         "features": [
         "arctic.jpg"
@@ -150,7 +168,8 @@
         "images":[
            "babylon.jpg"
         ],
-        "album":"An Evening with Silk Sonic - Bruno Mars, Anderson .Paak & Silk Sonic",
+        "album":"An Evening with Silk Sonic",
+        "musician":"Bruno Mars, Anderson .Paak & Silk Sonic",
         "song":"Skate",
         "features": [
         "silksonic.jpg"
@@ -162,7 +181,8 @@
         "images":[
            "ektachrome.jpg"
         ],
-        "album":"Beyoncé - Beyoncé",
+        "album":"Beyoncé",
+        "musician":"Beyoncé",
         "song":"Partition",
         "features": [
         "beyonce.jpg"
@@ -174,7 +194,8 @@
         "images":[
            "ilford3200.jpg"
         ],
-        "album":"Ugh, those feels again - Snoh Aalegra",
+        "album":"Ugh, those feels again",
+        "musician":"Snoh Aalegra",
         "song":"I Want You Around (Remix) [feat. 6LACK]",
         "features": [
         "snohaalegra.jpg"
@@ -186,7 +207,8 @@
        "images":[
           "acros.jpg"
        ],
-       "album":"This Is Why - Paramore",
+       "album":"This Is Why",
+       "musician":"Paramore",
        "song":"Liar",
        "features": [
        "paramore.jpg"
@@ -198,7 +220,8 @@
        "images":[
           "ektar100.jpg"
        ],
-       "album":"Un Verano Sin Ti - Bad Bunny",
+       "album":"Un Verano Sin Ti",
+       "musician":"Bad Bunny",
        "song":"Tití Me Preguntó",
        "features": [
        "badbunny.jpg"
@@ -210,7 +233,8 @@
        "images":[
           "ultramax.jpg"
        ],
-       "album":"Blood - Lianne La Havas",
+       "album":"Blood",
+       "musician":"Lianne La Havas",
        "song":"Wonderful",
        "features": [
        "liannelahavas.jpg"
@@ -222,8 +246,9 @@
        "images":[
           "colorplus.jpg"
        ],
-       "album":"The Best of Manila Sound - Various Artists",
-       "song":"Sa Aking Pag-Iisa - Cinderella",
+       "album":"The Best of Manila Sound",
+       "musician":"Cinderella",
+       "song":"Sa Aking Pag-Iisa",
        "features": [
        "manilasound.jpg"
        ]
@@ -234,7 +259,8 @@
        "images":[
           "psych.jpg"
        ],
-       "album":"The Score - Fugees",
+       "album":"The Score",
+       "musician":"Fugees",
        "song":"Killing Me Softly With His Song",
        "features": [
        "fugees.jpg"
@@ -246,7 +272,8 @@
        "images":[
           "kosmo.jpg"
        ],
-       "album":"Voodoo Child: The Jimi Hendrix Collection - Jimi Hendrix",
+       "album":"Voodoo Child: The Jimi Hendrix Collection",
+       "musician":"Jimi Hendrix",
        "song":"All Along the Watchtower",
        "features": [
        "hendrix.jpg"
@@ -258,7 +285,8 @@
        "images":[
           "love.jpg"
        ],
-       "album":"The Way It Is - Keyshia Cole",
+       "album":"The Way It Is",
+       "musician":"Keyshia Cole",
        "song":"Love",
        "features": [
        "keyshia.jpg"
@@ -270,7 +298,8 @@
        "images":[
           "fuji200.jpg"
        ],
-       "album":"Underneath the Pine - Toro y Moi",
+       "album":"Underneath the Pine",
+       "musician":"Toro y Moi",
        "song":"Divina",
        "features": [
        "toroymoi.jpg"
