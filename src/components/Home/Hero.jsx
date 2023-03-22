@@ -3,6 +3,7 @@ import Typed from "react-typed";
 import Movie from '../../assets/movies.jpg'
 import SF from '../../assets/sf.jpg'
 import Reel from '../../assets/reel.jpg'
+import HeroImg from '../../assets/hero.jpg'
 import { Link } from "react-router-dom";
 import { GiFilmStrip } from 'react-icons/gi'
 import { BiCameraMovie } from 'react-icons/bi'
@@ -12,14 +13,16 @@ const Hero = () => {
   return (
     <div className="text-[#0E7373]">
        <div className="max-w-[800px] mt-[-96px] w-full h-screen mx-auto text-center flex flex-col justify-center">
+       <img className='w-[1100px] mx-auto my-5 px-3' src={HeroImg} alt='/' />
          <div className="flex justify-center items-center">
         <div className="flex justify-center items-center ">
-           <p className="md:text-5xl sm:text-4xl text-xl font-bold py-3">Discover:</p>
+           {/* <p className="md:text-5xl sm:text-4xl text-xl font-bold py-3">WELCOME TO:</p> */}
            <Typed
              className="md:text-5xl sm:text-4xl text-xl font-bold md:pl-4 pl-2"
-             strings={["Camera Film.", "Music.", "Movies."]}
+            //  strings={["Camera Film.", "Music.", "Movies."]}
+             strings={["WELCOME TO LENS."]}
              typeSpeed={130}
-             backSpeed={150}
+             backSpeed={180}
              loop
            />
         </div>
