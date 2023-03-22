@@ -8,8 +8,7 @@ const Movies = () => {
       <div className='max-w-[1240px] mx-auto grid md:grid-cols-2'>
         <img className='w-[400px] mx-auto my-5 px-3' src={Countdown} alt='/' />
         <div className='flex flex-col justify-center'>
-          <p className='text-[#eeaf61] font-bold '>LOREM IPSUM</p>
-          <h1 className='md:text-3xl sm:text-2xl text-2xl font-bold py-2'>Lorem Ipsum Lorem Ipsum Lorem Ipsum.</h1>
+          <p className='text-[#eeaf61] font-bold '>MOVIES.</p>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum
             molestiae delectus culpa hic assumenda, voluptate reprehenderit
