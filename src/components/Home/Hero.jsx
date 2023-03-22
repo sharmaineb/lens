@@ -17,10 +17,8 @@ const Hero = () => {
        <img className='w-[1100px] mx-auto my-5 px-3' src={HeroImg} alt='/' />
          <div className="flex justify-center items-center">
         <div className="flex justify-center items-center ">
-           {/* <p className="md:text-5xl sm:text-4xl text-xl font-bold py-3">WELCOME TO:</p> */}
            <Typed
              className="md:text-5xl sm:text-4xl text-xl font-bold md:pl-4 pl-2"
-            //  strings={["Camera Film.", "Music.", "Movies."]}
              strings={["WELCOME TO LENS."]}
              typeSpeed={130}
              backSpeed={180}
@@ -43,7 +41,6 @@ const Hero = () => {
             eveniet ex deserunt fuga?
           </p>
         </div>
-        {/* ```````` */}
         </div>
         <section class="overflow-hidden text-neutral-700">
         <div class="container mx-auto px-5 py-2 lg:px-32 lg:pt-24">
@@ -179,7 +176,6 @@ const Hero = () => {
       </div>
       </div>
       </section>
-      {/* ```````````````````` */}     
     </div>
 {/*  --------------------------------------------------------------- */}
     <div className='w-full py-[10rem] px-4 bg-white'>
