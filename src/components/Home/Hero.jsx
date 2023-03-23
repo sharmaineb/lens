@@ -1,19 +1,18 @@
 import React from "react";
 import Typed from "react-typed";
-import Movie from '../../assets/movies.jpg'
+import Vinyl from '../../assets/vinyl.jpg'
 import SF from '../../assets/sf.jpg'
 import Reel from '../../assets/reel.jpg'
 import HeroImg from '../../assets/hero.jpg'
 import { Link } from "react-router-dom";
 import { GiFilmStrip } from 'react-icons/gi'
-import { BiCameraMovie } from 'react-icons/bi'
 import { MdTravelExplore } from 'react-icons/md'
 import Countdown from '../../assets/countdown.gif';
 
 const Hero = () => {
   return (
     <div className="text-[#0E7373]">
-       <div className="max-w-[800px] mt-[-96px] w-full h-screen mx-auto text-center flex flex-col justify-center">
+       <div className="max-w-[800px] w-full h-screen mx-auto text-center flex flex-col justify-center">
        <img className='w-[1100px] mx-auto my-5 px-3' src={HeroImg} alt='/' />
          <div className="flex justify-center items-center">
         <div className="flex justify-center items-center ">
@@ -31,9 +30,9 @@ const Hero = () => {
       {/* ----------------------------------------------------------- */}
       <div className='w-full bg-[#fff] py-15 px-1 mx-auto my-auto'>
       <div className='max-w-[1240px] mx-auto grid md:grid-cols-2'>
-        <img className='w-[300px] mx-auto my-5 px-3' src={Countdown} alt='/' />
+        <img className='w-[450px] mx-auto my-4 px-2' src={Vinyl} alt='/' />
         <div className='flex flex-col justify-center'>
-          <p className='text-[#eeaf61] font-bold '>MOVIES.</p>
+          <p className='text-[#eeaf61] font-bold '>GET INSPIRED.</p>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum
             molestiae delectus culpa hic assumenda, voluptate reprehenderit
@@ -42,7 +41,8 @@ const Hero = () => {
           </p>
         </div>
         </div>
-        <section class="overflow-hidden text-neutral-700">
+        <div class="overflow-hidden text-neutral-700 pt-28">
+        <img className='w-[350px] mx-auto' src={Countdown} alt='/' />
         <div class="container mx-auto px-5 py-2 lg:px-32 lg:pt-24">
         <div class="-m-1 flex flex-wrap md:-m-2">
         <div class="flex w-1/2 flex-wrap">
@@ -175,21 +175,11 @@ const Hero = () => {
       </div>
       </div>
       </div>
-      </section>
+      </div>
     </div>
 {/*  --------------------------------------------------------------- */}
     <div className='w-full py-[10rem] px-4 bg-white'>
-      <div className='max-w-[1240px] mx-auto grid md:grid-cols-3 gap-8'>
-          <div className='w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300 justify-center'>
-          <BiCameraMovie size={20}/>
-              <p className='text-center text-3xl font-bold'>Lorem Ipsum</p>
-              <div className='text-center font-medium'>
-              <img className='w-[450px] mx-auto my-5 px-7' src={Movie} alt='/' />
-              </div>
-              <Link to={`/about`}>
-              <button className='bg-[#F2E63D] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 flex justify-center'>Explore</button>
-              </Link>
-          </div>
+      <div className='max-w-[1240px] mx-auto grid md:grid-cols-2 gap-8'>
           <div className='w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300'>
             <GiFilmStrip size={20}/>
               <p className='text-center text-3xl font-bold'>Lorem Ipsum</p>

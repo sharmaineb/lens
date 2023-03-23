@@ -13,7 +13,7 @@ function Details(props) {
       <div className='max-w-[1240px] mx-auto grid md:grid-cols-2'>
         <img src={`${process.env.PUBLIC_URL}/images/${images[0]}`} alt={title} />
       <div className='flex flex-col justify-center'>
-        <h1 className='pl-3'>{title}</h1>
+        <h1 className='pl-3 text-[#eeaf61] font-bold'>{title}</h1>
         <p className='pl-3 text-[#003000] pb-2'><strong>Film Description: </strong>{desc}</p>
         </div>
  {/* --------------------------------------------------        */}
@@ -26,7 +26,7 @@ function Details(props) {
       <div className='w-full py-[10rem] px-4 bg-white justify-center flex'>
       <div className='max-w-[1240px] mx-auto grid md:grid-cols-2 gap-8'>
           <div className='w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300 justify-center'>
-              <p className='text-center text-3xl font-bold'>Album & Musician:</p>
+              <p className='text-center text-3xl font-bold text-[#eeaf61]'>Album & Musician:</p>
               <div className='text-center font-medium'>
                   <p className='py-2 border-b mx-8 mt-8'>Album: {album}</p>
                   <p className='py-2 border-b mx-8'>Musician: {musician}</p>
@@ -35,7 +35,7 @@ function Details(props) {
               </div>
           </div>
           <div className='w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300 justify-center'>
-              <p className='text-center text-3xl font-bold'>Movie: </p>
+              <p className='text-center text-3xl font-bold text-[#eeaf61]'>Movie: </p>
               <div className='text-center font-medium'>
               <p className='py-2 border-b mx-8 mt-8'>{movie}</p>
               <img className='w-[450px] mx-auto my-5 px-7' src={`${process.env.PUBLIC_URL}/images/${movieimg[0]}`} alt={title} />

@@ -28,19 +28,29 @@ const Footer = () => {
     <div>
         <h6 className='font-medium text-[#f1f1f1]-400'>Film Resources</h6>
         <ul>
-            <li className='py-2 text-sm'>Lorem Ipsum</li>
-            <li className='py-2 text-sm'>Lorem Ipsum</li>
-            <li className='py-2 text-sm'>Lorem Ipsum</li>
-            <li className='py-2 text-sm'>Lorem Ipsum</li>
+            <li className='py-2 text-sm'>
+            <a href='https://thedarkroom.com/'>The Dark Room</a>
+            </li>
+            <li className='py-2 text-sm'>
+            <a href='https://www.bhphotovideo.com/c/browse/Film/ci/9954/N/4093113318'>B&H Photo</a>  
+            </li>
+            <li className='py-2 text-sm'>
+            <a href='https://www.shopmoment.com/film-shop/film'>Moment</a>
+            </li>
         </ul>
     </div>
     <div>
         <h6 className='font-medium text-[#f1f1f1]-400'>Movie Resources</h6>
         <ul>
-            <li className='py-2 text-sm'>Letterboxd</li>
-            <li className='py-2 text-sm'>Lorem Ipsum</li>
-            <li className='py-2 text-sm'>Lorem Ipsum</li>
-            <li className='py-2 text-sm'>Lorem Ipsum Lorem Ipsum</li>
+            <li className='py-2 text-sm'>
+            <a href='https://letterboxd.com/'>Letterboxd</a>
+            </li>
+            <li className='py-2 text-sm'>
+            <a href='https://shotdeck.com/'>Shotdeck</a>
+            </li>
+            <li className='py-2 text-sm'>
+            <a href='https://film-grab.com/'>Film Grab</a>
+            </li>
         </ul>
     </div>
     <div>
@@ -48,9 +58,6 @@ const Footer = () => {
         <ul>
             <li className='py-2 text-sm'>About</li>
             <li className='py-2 text-sm'>Jobs</li>
-            <li className='py-2 text-sm'>Lorem Ipsum</li>
-            <li className='py-2 text-sm'>Lorem Ipsum</li>
-            <li className='py-2 text-sm'>Lorem Ipsum</li>
         </ul>
     </div>
     <div>
