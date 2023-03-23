@@ -1,6 +1,6 @@
 import React from "react";
 import Typed from "react-typed";
-import Vinyl from '../../assets/vinyl.jpg'
+import Photos from '../../assets/photos.jpg'
 import Reel from '../../assets/reel.jpg'
 import HeroImg from '../../assets/hero.jpg'
 import { Link } from "react-router-dom";
@@ -28,7 +28,7 @@ const Hero = () => {
       {/* ----------------------------------------------------------- */}
       <div className='w-full bg-[#fff] py-15 px-1 mx-auto my-auto'>
       <div className='max-w-[1240px] mx-auto grid md:grid-cols-2'>
-        <img className='w-[450px] mx-auto my-4 px-2' src={Vinyl} alt='/' />
+        <img className='w-[450px] mx-auto my-4 px-2' src={Photos} alt='/' />
         <div className='flex flex-col justify-center'>
           <p className='text-[#eeaf61] font-bold '>GET INSPIRED.</p>
           <p>

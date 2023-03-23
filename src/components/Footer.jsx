@@ -8,8 +8,8 @@ import {
 import { BiCameraMovie } from 'react-icons/bi'
 import { GiFilmStrip } from 'react-icons/gi'
 import { ImHeadphones } from 'react-icons/im'
-
 import { MdTravelExplore } from 'react-icons/md'
+import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
@@ -54,10 +54,14 @@ const Footer = () => {
         </ul>
     </div>
     <div>
-        <h6 className='font-medium text-[#f1f1f1]-400'>Company</h6>
+        <h6 className='font-medium text-[#f1f1f1]-400'>Resources</h6>
         <ul>
+        <Link to={`/about`}>
             <li className='py-2 text-sm'>About</li>
-            <li className='py-2 text-sm'>Jobs</li>
+        </Link>
+            <li className='py-2 text-sm'>
+            <a href='https://www.barnesandnoble.com/'>Books</a>
+            </li>
         </ul>
     </div>
     <div>
