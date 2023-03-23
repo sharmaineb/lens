@@ -1,12 +1,10 @@
 import React from "react";
 import Typed from "react-typed";
 import Vinyl from '../../assets/vinyl.jpg'
-import SF from '../../assets/sf.jpg'
 import Reel from '../../assets/reel.jpg'
 import HeroImg from '../../assets/hero.jpg'
 import { Link } from "react-router-dom";
 import { GiFilmStrip } from 'react-icons/gi'
-import { MdTravelExplore } from 'react-icons/md'
 import Countdown from '../../assets/countdown.gif';
 
 const Hero = () => {

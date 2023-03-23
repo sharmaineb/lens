@@ -4,6 +4,7 @@ import data from '../../filmdata';
 import { useState } from 'react'
 import './List.css'
 import Reel from '../../assets/reel.jpg'
+import RandomSpace from '../Random/Random';
 
 function List() {
   const [ query, setQuery ] = useState('');
@@ -30,6 +31,9 @@ function List() {
 					onChange={(e) => setQuery(e.target.value)}
 				/>
 			</form>
+      <button className='bg-[#F2E63D] text-[#003000] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 flex justify-center'>
+      <RandomSpace />
+      </button>
 			<div className="List">
         { spaces.length > 0 ? spaces : "No results. Please Search Again." } 
       </div>
