@@ -23,19 +23,17 @@ const Hero = () => {
            />
         </div>
          </div>
-         <p className="md:text-2xl text-xl font-bold text-gray-500">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
       </div>
       {/* ----------------------------------------------------------- */}
       <div className='w-full bg-[#fff] py-15 px-1 mx-auto my-auto'>
       <div className='max-w-[1240px] mx-auto grid md:grid-cols-2'>
         <img className='w-[450px] mx-auto my-4 px-2' src={Photos} alt='/' />
         <div className='flex flex-col justify-center'>
-          <p className='text-[#eeaf61] font-bold '>GET INSPIRED.</p>
+          <p className='text-[#eeaf61] font-bold '>CREATIVITY.</p>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum
-            molestiae delectus culpa hic assumenda, voluptate reprehenderit
-            dolore autem cum ullam sed odit perspiciatis. Doloribus quos velit,
-            eveniet ex deserunt fuga?
+          How do we find creative inspiration?
+          Everyone finds inspiration in different ways. 
+          I wanted to share how I found mine. 
           </p>
         </div>
         </div>
