@@ -6,7 +6,7 @@ import data from '../../filmdata'
 function Details(props) {
   const params = useParams()
   const { id } = params // Location index
-  const { images, title, desc, features, song, album, movieimg, musician, movie, book, bookimg, author } = data[id]
+  const { images, title, desc, features, song, album, movieimg, musician, movie, book, bookimg, author, place, address, placeimg } = data[id]
 
   return (
     <><div className='w-full bg-[#fff] py-15 px-1 mx-auto my-auto p-1'>
@@ -43,6 +43,14 @@ function Details(props) {
               <p className='py-2 border-b mx-8 mt-8'>{book}</p>
               <p className='py-2 border-b mx-8'>Author: {author}</p>
               <img className='w-[450px] mx-auto my-5 px-7' src={`${process.env.PUBLIC_URL}/images/${bookimg[0]}`} alt={title} />
+              </div>
+          </div>
+          <div className='w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300 justify-center'>
+              <p className='text-center text-3xl font-bold text-[#eeaf61]'>Place: </p>
+              <div className='text-center font-medium'>
+              <p className='py-2 border-b mx-8 mt-8'>{place}</p>
+              <p className='py-2 border-b mx-8'>Address: {address}</p>
+              <img className='w-[450px] mx-auto my-5 px-7' src={`${process.env.PUBLIC_URL}/images/${placeimg[0]}`} alt={title} />
               </div>
           </div>
       </div>

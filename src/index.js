@@ -6,7 +6,6 @@ import List from './components/List/List'
 import Home from './components/Home/Hero'
 import Details from './components/Details/Details';
 import { HashRouter as Router, Routes, Route } from 'react-router-dom';
-import PlacesList from './components/PlacesList/PlacesList';
 import About from './components/About/About'
 
 const rootElement = document.getElementById('root');
@@ -20,7 +19,6 @@ root.render(
         <Route path="/list" element={<List />} />
         <Route path="/about" element={<About />} />
         <Route path="/details/:id" element={<Details />} />
-        <Route path="/places" element={<PlacesList />} />
       </Route>
     </Routes>
   </Router>,

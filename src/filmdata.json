@@ -19,34 +19,44 @@
        "author":"Bell Hooks",
        "bookimg": [
          "aalnv.jpg"
+       ],
+       "place":"Off the Grid: Fort Mason Center",
+       "address":"Parking Lot, 2 Marina Boulevard, Fort Mason Center, San Francisco, CA",
+       "placeimg":[
+          "otg.jpg"
       ]
     },
     {
        "title":"Kodak Portra 800",
        "desc":"It has warm tones, very good exposure latitude, and while its grain is more noticeable it is still very pleasant looking. Its higher iso makes it ideal for lower light shooting.",
        "images":[
-          "portra800.jpg"
-        ],
-        "album":"SOS",
-        "musician": "SZA",
-        "song":"Kill Bill",
-        "features": [
-        "szasos.jpg"
-        ],
-        "movie":"Ex Machina",
-        "movieimg": [
-         "exmachina.jpg"
+         "portra800.jpg"
        ],
-       "book":"The Midnight Library",
-       "author":"Matt Haig",
-       "bookimg": [
+       "album":"SOS",
+       "musician": "SZA",
+       "song":"Kill Bill",
+       "features": [
+       "szasos.jpg"
+       ],
+       "movie":"Ex Machina",
+       "movieimg": [
+       "exmachina.jpg"
+        ],
+        "book":"The Midnight Library",
+        "author":"Matt Haig",
+        "bookimg": [
          "tml.jpg"
-      ]
+        ],
+       "place":"Sol Food",
+       "address":"903 Lincoln Ave, San Rafael, CA",
+       "placeimg":[
+          "sol.jpg"
+        ]
     },
     {
-       "title":"Cinestill 800t",
-       "desc":"This 800-speed tungsten-balanced color negative film is prepared from the same motion picture film stock used by top cinematographers around the world. This film is designed for difficult low-light tungsten situations and may be used in many different lighting situations to achieve a variety of looks.",
-       "images":[
+        "title":"Cinestill 800t",
+        "desc":"This 800-speed tungsten-balanced color negative film is prepared from the same motion picture film stock used by top cinematographers around the world. This film is designed for difficult low-light tungsten situations and may be used in many different lighting situations to achieve a variety of looks.",
+        "images":[
           "cinestill800.jpg"
         ],
         "album":"Anti",
@@ -58,12 +68,17 @@
         "movie":"Parasite",
         "movieimg": [
          "parasite.jpg"
-       ],
-       "book":"A Gentle Reminder",
-       "author":"Bianca Sparacino",
-       "bookimg": [
+        ],
+        "book":"A Gentle Reminder",
+        "author":"Bianca Sparacino",
+        "bookimg": [
          "agr.jpg"
-      ]
+        ],
+        "place":"Pier 7",
+        "address":"Pier 7, San Francisco, CA",
+        "placeimg":[
+          "pier7.jpg"
+        ]
     },
     {
        "title":"FujiFilm Superia x-tra 400",
@@ -80,12 +95,17 @@
         "movie":"Scott Pilgrim vs. the World",
         "movieimg": [
          "spvtw.jpg"
-       ],
-       "book":"Malibu Rising",
-       "author":"Taylor Jenkins Reid",
-       "bookimg": [
+        ],
+        "book":"Malibu Rising",
+        "author":"Taylor Jenkins Reid",
+        "bookimg": [
          "maliburising.jpg"
-      ]
+        ],
+        "place":"SPARK Social SF",
+        "address":"601 Mission Bay Boulevard North, San Francisco, CA",
+        "placeimg":[
+          "spark.jpg"
+       ]
     },
     {
        "title":"Lomography 800",
@@ -102,12 +122,17 @@
         "movie":"Amélie",
         "movieimg": [
          "amelie.jpg"
-       ],
-       "book":"The Name of the Wind",
-       "author":"Patrick Rothfuss",
-       "bookimg": [
+        ],
+        "book":"The Name of the Wind",
+        "author":"Patrick Rothfuss",
+        "bookimg": [
          "tnotw.jpg"
-      ]
+        ],
+        "place":"Emporium San Francisco",
+        "address":"616 Divisadero St, San Francisco, CA",
+        "placeimg":[
+          "emporium.jpg"
+        ]
     },
     {
        "title":"Lomography Lomochrome Turquoise",
@@ -124,12 +149,17 @@
         "movie":"Moonlight",
         "movieimg": [
          "moonlight.jpg"
-       ],
-       "book":"The Summer of Broken Rules",
-       "author":"K.L. Walther",
-       "bookimg": [
+        ],
+        "book":"The Summer of Broken Rules",
+        "author":"K.L. Walther",
+        "bookimg": [
          "tsobr.jpg"
-      ]
+        ],
+        "place":"Foreign Cinema",
+        "address":"2534 Mission St, San Francisco, CA",
+        "placeimg":[
+          "fcsf.jpg"
+        ]
     },
     {
        "title":"Kodak Gold 200",
@@ -146,12 +176,17 @@
         "movie":"Mamma Mia!",
         "movieimg": [
          "mammamia.jpg"
-       ],
-       "book":"Beach Read",
-       "author":"Emily Henry",
-       "bookimg": [
+        ],
+        "book":"Beach Read",
+        "author":"Emily Henry",
+        "bookimg": [
          "beachread.jpg"
-      ]
+       ],
+        "place":"San Mateo Japanese Garden",
+        "address":"50 E 5th Ave, San Mateo, CA",
+        "placeimg":[
+          "smjg.jpg"
+       ]
     },
     {
        "title":"FujiFilm Provia 100f",
@@ -173,7 +208,12 @@
        "author":"Margaret Wilkerson Sexton",
        "bookimg": [
          "otrt.jpg"
-      ]
+       ],
+       "place":"Sutro Baths",
+       "address":"1004 Point Lobos Ave, San Francisco, CA",
+       "placeimg":[
+          "sutro.jpg"
+       ]
     },
     {
        "title":"Cinestill 400d",
@@ -195,7 +235,12 @@
        "author":"Emily Henry",
        "bookimg": [
          "wtsfos.jpg"
-      ]
+       ],
+       "place":"Mission District Murals",
+       "address":"Mission District, San Francisco, CA",
+       "placeimg":[
+          "mission.jpg"
+       ]
     },
     {
        "title":"Kodak 400 T-Max B+W",
@@ -212,12 +257,17 @@
         "movie":"The Artist",
         "movieimg": [
          "theartist.jpg"
-       ],
-       "book":"Honey & Spice",
-       "author":"Bolu Babalola",
-       "bookimg": [
+        ],
+        "book":"Honey & Spice",
+        "author":"Bolu Babalola",
+        "bookimg": [
          "h&s.jpg"
-      ]
+        ],
+        "place":"Green Apple Books",
+        "address":"506 Clement St, San Francisco, CA",
+        "placeimg":[
+          "green.jpg"
+       ]
     },
     {
         "title":"Lomography Lomochrome Metropolis",
@@ -234,12 +284,17 @@
         "movie":"Chef",
         "movieimg": [
          "chef.jpg"
-       ],
-       "book":"Counterfeit",
-       "author":"Kirstin Chen",
-       "bookimg": [
+        ],
+        "book":"Counterfeit",
+        "author":"Kirstin Chen",
+        "bookimg": [
          "counterfeit.jpg"
-      ]
+       ],
+       "place":"Point Bonita Lighthouse",
+       "address":"San Francisco Bay entrance in the Marin Headlands, Sausalito, CA",
+       "placeimg":[
+         "lighthouse.jpg"
+       ]
      },
      {
         "title":"FujiFilm Velvia 50",
@@ -256,12 +311,17 @@
         "movie":"The Last Black Man in San Francisco",
         "movieimg": [
          "tlbmisf.jpg"
-       ],
-       "book":"True Biz",
-       "author":"Sara Nović",
-       "bookimg": [
+        ],
+        "book":"True Biz",
+        "author":"Sara Nović",
+        "bookimg": [
          "truebiz.jpg"
-      ]
+        ],
+        "place":"Capitola Beach",
+        "address":"San Jose Ave and Esplanade, Capitola, CA",
+        "placeimg":[
+        "capitola.jpg"
+    ]
      },
      {
         "title":"Lomography Babylon",
@@ -278,12 +338,17 @@
         "movie":"Babylon",
         "movieimg": [
          "babylonfilm.jpg"
-       ],
-       "book":"Love in Color",
-       "author":"Bolu Babalola",
-       "bookimg": [
+        ],
+        "book":"Love in Color",
+        "author":"Bolu Babalola",
+        "bookimg": [
          "loveincolor.jpg"
-      ]
+      ],
+        "place":"California Academy of Sciences",
+        "address":"55 Music Concourse Dr, San Francisco, CA",
+        "placeimg":[
+        "caos.jpg"
+    ]
      },
      {
         "title":"Kodak Professional Ektachrome E100 Film",
@@ -305,6 +370,11 @@
        "author":"Julie Caplin",
        "bookimg": [
          "tltit.jpg"
+      ],
+       "place":"Tank Garage Winery",
+       "address":"1020 Foothill Blvd, Calistoga, CA",
+       "placeimg":[
+         "tgw.jpg"
       ]
      },
      {
@@ -327,7 +397,12 @@
        "author":"Elif Shafak",
        "bookimg": [
          "tiomt.jpg"
-      ]
+      ],
+       "place":"Fort Point National Historic Site",
+       "address":"201 Marine Dr, San Francisco, CA ",
+       "placeimg":[
+       "fp.jpg"
+    ]
      },
      {
        "title":"FujiFilm Neopan 100 Acros II",
@@ -349,7 +424,12 @@
        "author":"Gabriela Garcia",
        "bookimg": [
          "owas.jpg"
-      ]
+      ],
+      "place":"States Coffee",
+      "address":"700 1st St, Benicia, CA",
+      "placeimg":[
+       "states.jpg"
+    ]
     },
     {
        "title":"Kodak Ektar 100",
@@ -371,6 +451,11 @@
        "author":"Mytrae Meliana",
        "bookimg": [
          "brownskingirl.jpg"
+      ],
+      "place":"Vallejo Farmers' Market",
+      "address":"400 Georgia St, Vallejo, CA",
+      "placeimg":[
+         "vallejo.jpg"
       ]
     },
     {
@@ -393,6 +478,11 @@
        "author":"Ellery Lloyd",
        "bookimg": [
          "theclub.jpg"
+      ],
+      "place":"Urban Putt",
+      "address":"1096 S Van Ness Ave, San Francisco, CA",
+      "placeimg":[
+         "up.jpg"
       ]
     },
     {
@@ -415,6 +505,11 @@
        "author":"Laura Nowlin",
        "bookimg": [
          "ihhbwm.jpg"
+      ],
+      "place":"Brown Downtown Napa",
+      "address":"1005 Coombs St, Napa, CA",
+      "placeimg":[
+         "brown.jpg"
       ]
     },
     {
@@ -437,6 +532,11 @@
        "author":"Sally Rooney",
        "bookimg": [
          "normalpeople.jpg"
+      ],
+      "place":"6th Avenue Skate Park",
+      "address":"Golden Gate Park, San Francisco, CA",
+      "placeimg":[
+         "wheels.jpg"
       ]
     },
     {
@@ -459,6 +559,11 @@
        "author":"Colleen Hoover",
        "bookimg": [
          "verity.jpg"
+      ],
+      "place":"Mission Bowling Club",
+      "address":"3176 17th St, San Francisco, CA",
+      "placeimg":[
+         "mbc.jpg"
       ]
     },
     {
@@ -481,6 +586,11 @@
        "author":"Lynn Painter",
        "bookimg": [
          "bttm.jpg"
+      ],
+      "place":"Cadet Wine & Beer Bar",
+      "address":"930 Franklin St, Napa, CA",
+      "placeimg":[
+         "cadet.jpg"
       ]
     },
     {
@@ -503,6 +613,11 @@
        "author":"Taylor Jenkins Reid",
        "bookimg": [
          "csib.jpg"
+      ],
+      "place":"Oakland Museum of California",
+      "address":"1000 Oak St, Oakland, CA",
+      "placeimg":[
+         "oak.jpg"
       ]
     },
     {
@@ -525,6 +640,11 @@
        "author":"Ernest Cline",
        "bookimg": [
          "rpo.jpg"
+      ],
+      "place":"Palace of Fine Arts",
+      "address":"3601 Lyon St, San Francisco, CA",
+      "placeimg":[
+         "pofa.jpg"
       ]
     },
     {
@@ -547,6 +667,11 @@
        "author":"Elissa Sussman",
        "bookimg": [
          "fysa.jpg"
+      ],
+      "place":"Arizona Garden at Stanford University",
+      "address":"Stanford, CA",
+      "placeimg":[
+         "stanford.jpg"
       ]
     },
     {
@@ -569,6 +694,11 @@
        "author":"Toshikazu Kawaguchi",
        "bookimg": [
          "btcgc.jpg"
+      ],
+      "place":"Grand Staircase",
+      "address":"399 Mullinix Way, San Jose, CA",
+      "placeimg":[
+         "sanjose.jpg"
       ]
     },
     {
@@ -591,6 +721,11 @@
        "author":"Silvia Moreno-Garcia",
        "bookimg": [
          "gojas.jpg"
+      ],
+      "place":"Lovers' Lane Trail",
+      "address":"Lover's Ln, San Francisco, CA",
+      "placeimg":[
+         "llt.jpg"
       ]
     },
     {
@@ -613,6 +748,11 @@
        "author":"Taylor Jenkins Reid",
        "bookimg": [
          "djts.jpg"
+      ],
+      "place":"Good Good Culture Club",
+      "address":"3560 18th St, San Francisco, CA",
+      "placeimg":[
+         "ggcc.jpg"
       ]
     },
     {
@@ -635,6 +775,11 @@
        "author":"Yaa Gyasi",
        "bookimg": [
          "transcendentkingdom.jpg"
+      ],
+      "place":"Battery Spencer",
+      "address":"Conzelman Rd, Sausalito, CA",
+      "placeimg":[
+         "bs.jpg"
       ]
     },
     {
@@ -657,6 +802,11 @@
        "author":"Madeline Miller",
        "bookimg": [
          "tsofa.jpg"
+      ],
+      "place":"Mare Island Brewing Co.- Coal Shed Brewery",
+      "address":"850 Nimitz Ave, Vallejo, CA",
+      "placeimg":[
+         "mibc.jpg"
       ]
     },
     {
@@ -679,6 +829,11 @@
       "author":"Alexandria Bellefleur",
       "bookimg": [
          "writteninthestars.jpg"
+      ],
+      "place":"Santa Cruz Beach Boardwalk",
+      "address":"400 Beach St, Santa Cruz, CA",
+      "placeimg":[
+         "scbb.jpg"
       ]
    },
    {
@@ -701,6 +856,11 @@
       "author":"Taylor Jenkins Reid",
       "bookimg": [
          "otl.jpg"
+      ],
+      "place":"Walt Disney Family Museum",
+      "address":"104 Montgomery St, San Francisco, CA",
+      "placeimg":[
+         "disney.jpg"
       ]
    },
    {
@@ -723,6 +883,11 @@
       "author":"Sarah J. Maas",
       "bookimg": [
          "acotar.jpg"
+      ],
+      "place":"The Marshall Store",
+      "address":"19225 CA-1, Marshall, CA 94940",
+      "placeimg":[
+         "tms.jpg"
       ]
    },
    {
@@ -745,6 +910,11 @@
       "author":"Silvia Moreno-Garcia",
       "bookimg": [
          "mexicangothic.jpg"
+      ],
+      "place":"Chinatown San Francisco",
+      "address":"Chinatown San Francisco, CA",
+      "placeimg":[
+         "csf.jpg"
       ]
    },
    {
@@ -767,6 +937,11 @@
       "author":"Samantha Shannon",
       "bookimg": [
          "adofn.jpg"
+      ],
+      "place":"SFMoMA",
+      "address":"151 3rd St, San Francisco, CA",
+      "placeimg":[
+         "sfmoma.jpg"
       ]
    },
    {
@@ -789,6 +964,11 @@
       "author":"Hannah Nicole Maehrer",
       "bookimg": [
          "attv.jpg"
+      ],
+      "place":"de Young Museum",
+      "address":"0 Hagiwara Tea Garden Dr, San Francisco, CA",
+      "placeimg":[
+         "deyoung.jpg"
       ]
    },
    {
@@ -811,6 +991,11 @@
       "author":"Caroline Criado Perez",
       "bookimg": [
          "iwdbiawdfm.jpg"
+      ],
+      "place":"Berkeley Art Museum and Pacific Film Archive",
+      "address":"2155 Center St, Berkeley, CA",
+      "placeimg":[
+         "bampfa.jpg"
       ]
    },
    {
@@ -833,6 +1018,11 @@
       "author":"Amber Smith",
       "bookimg": [
          "twiutb.jpg"
+      ],
+      "place":"Lawrence Hall of Science",
+      "address":"1 Centennial Dr, Berkeley, CA",
+      "placeimg":[
+         "lhos.jpg"
       ]
    },
    {
@@ -855,6 +1045,11 @@
       "author":"Taylor Jenkins Reid",
       "bookimg": [
          "tshoeh.jpg"
+      ],
+      "place":"The Greek Theatre",
+      "address":"2001 Gayley Rd, Berkeley, CA",
+      "placeimg":[
+         "tgt.jpg"
       ]
    },
    {
@@ -877,6 +1072,11 @@
       "author":"Helen Scales",
       "bookimg": [
          "thebrilliantabyss.jpg"
+      ],
+      "place":"Amoeba Music",
+      "address":"1855 Haight St, San Francisco, CA",
+      "placeimg":[
+         "amoeba.jpg"
       ]
    },
    {
@@ -899,6 +1099,11 @@
       "author":"Helen Hoang",
       "bookimg": [
          "tkq.jpg"
+      ],
+      "place":"Andytown Coffee Roasters",
+      "address":"3655 Lawton St, San Francisco, CA",
+      "placeimg":[
+         "acr.jpg"
       ]
    },
    {
@@ -921,6 +1126,11 @@
       "author":"Christina Lauren",
       "bookimg": [
          "unhoneymooners.jpg"
+      ],
+      "place":"Scoma's of Sausalito",
+      "address":"588 Bridgeway, Sausalito, CA",
+      "placeimg":[
+         "scoma.jpg"
       ]
    },
    {
@@ -943,6 +1153,11 @@
       "author":"Mia Alvar",
       "bookimg": [
          "inthecountry.jpg"
+      ],
+      "place":"Plow",
+      "address":"1299 18th St, San Francisco, CA",
+      "placeimg":[
+         "plow.jpg"
       ]
    },
    {
@@ -965,6 +1180,11 @@
       "author":"Beth O'Leary",
       "bookimg": [
          "theflatshare.jpg"
+      ],
+      "place":"Nopa",
+      "address":"560 Divisadero St, San Francisco, CA",
+      "placeimg":[
+         "nopa.jpg"
       ]
    },
    {
@@ -987,6 +1207,11 @@
       "author":"Brian Christian, Tom Griffiths",
       "bookimg": [
          "algo.jpg"
+      ],
+      "place":"Chez Maman East",
+      "address":"1401 18th St, San Francisco, CA",
+      "placeimg":[
+         "chez.jpg"
       ]
    },
    {
@@ -1009,6 +1234,11 @@
       "author":"Brit Bennett",
       "bookimg": [
          "tvh.jpg"
+      ],
+      "place":"Dumpling Time Design District",
+      "address":"11 Division St, San Francisco, CA",
+      "placeimg":[
+         "dumpling.jpg"
       ]
    },
    {
@@ -1031,6 +1261,11 @@
       "author":"Lucy Score",
       "bookimg": [
          "twngo.jpg"
+      ],
+      "place":"Oma San Francisco Station",
+      "address":"1737 Post St #337, San Francisco, CA",
+      "placeimg":[
+         "sushi.jpg"
       ]
 
    },
@@ -1054,6 +1289,11 @@
       "author":"Olivie Blake",
       "bookimg": [
          "ofme.jpg"
+      ],
+      "place":"La Taqueria",
+      "address":"2889 Mission St, San Francisco, CA",
+      "placeimg":[
+         "lataqeria.jpg"
       ]
        
    }

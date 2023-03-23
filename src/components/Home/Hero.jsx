@@ -179,25 +179,15 @@ const Hero = () => {
     </div>
 {/*  --------------------------------------------------------------- */}
     <div className='w-full py-[10rem] px-4 bg-white'>
-      <div className='max-w-[1240px] mx-auto grid md:grid-cols-2 gap-8'>
+      <div className='max-w-[1240px] mx-auto grid md:grid-cols-1 gap-8'>
           <div className='w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300'>
             <GiFilmStrip size={20}/>
-              <p className='text-center text-3xl font-bold'>Lorem Ipsum</p>
+              <p className='text-center text-3xl font-bold'>Camera Film</p>
               <div className='text-center font-medium'>
               <img className='w-[450px] mx-auto my-5 px-7' src={Reel} alt='/' />
               </div>
               <Link to={`/list`}>
               <button className='bg-[#F2E63D] text-[#003000] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 flex justify-center'>Explore</button>
-              </Link>
-          </div>
-          <div className='w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300'>
-            <MdTravelExplore size={20}/>
-              <p className='text-center text-3xl font-bold'>Lorem Ipsum</p>
-              <div className='text-center font-medium'>
-              <img className='w-[450px] mx-auto my-5 px-7' src={SF} alt='/' />
-              </div>
-              <Link to={`/places`}>
-              <button className='bg-[#F2E63D] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 flex justify-center'>Explore</button>
               </Link>
           </div>
       </div>
