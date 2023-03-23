@@ -2,7 +2,6 @@
     {
        "title":"Kodak Portra 400",
        "desc":"Portra has incredible exposure latitude meaning it does well with overexposure and it also pushes well. It has medium contrast and is known for its warn tones which make it ideal for portraiture.",
-       "website":"https://thedarkroom.com/film/portra-400/photo-gallery/",
        "images":[
           "portra400.jpg"
        ],
@@ -12,8 +11,9 @@
        "features": [
         "szactrl.jpg"
        ],
-       "movie": [
-         "rihanna.jpg"
+       "movie":"True Romance",
+       "movieimg": [
+         "trueromance.jpg"
        ]
     },
     {
@@ -28,8 +28,9 @@
         "features": [
         "szasos.jpg"
         ],
-        "movie": [
-         "rihanna.jpg"
+        "movie":"Ex Machina",
+        "movieimg": [
+         "exmachina.jpg"
        ]
     },
     {
@@ -43,7 +44,11 @@
         "song":"Needed Me",
         "features": [
         "rihanna.jpg"
-        ]
+        ],
+        "movie":"Parasite",
+        "movieimg": [
+         "parasite.jpg"
+       ]
     },
     {
        "title":"FujiFilm Superia x-tra 400",
@@ -56,7 +61,11 @@
         "song":"Satellite",
         "features": [
         "harry.jpg"
-        ]
+        ],
+        "movie":"Scott Pilgrim vs. the World",
+        "movieimg": [
+         "spvtw.jpg"
+       ]
     },
     {
        "title":"Lomography 800",
@@ -69,7 +78,11 @@
         "song":"Waves (Tame Impala Remix)",
         "features": [
         "miguel.jpg"
-        ]
+        ],
+        "movie":"Amélie",
+        "movieimg": [
+         "amelie.jpg"
+       ]
     },
     {
        "title":"Lomography Lomochrome Turquoise",
@@ -77,12 +90,16 @@
        "images":[
           "lomochrome.jpg"
         ],
-        "album":"DAMN.",
-        "musician":"Kendrick Lamar",
-        "song":"LOVE. (FEAT. ZACARI)",
+        "album":"Twenties (Deluxe)",
+        "musician":"Bren Joy",
+        "song":"Freezing",
         "features": [
-        "kendrick.jpg"
-        ]
+        "brenjoy.jpg"
+        ],
+        "movie":"Moonlight",
+        "movieimg": [
+         "moonlight.jpg"
+       ]
     },
     {
        "title":"Kodak Gold 200",
@@ -95,7 +112,11 @@
         "song":"Reasons",
         "features": [
         "ewf.jpg"
-        ]
+        ],
+        "movie":"Mamma Mia!",
+        "movieimg": [
+         "mammamia.jpg"
+       ]
     },
     {
        "title":"FujiFilm Provia 100f",
@@ -108,7 +129,11 @@
         "song":"Your Love Is King",
         "features": [
         "sade.jpg"
-        ]
+        ],
+        "movie":"Fallen Angels",
+        "movieimg": [
+         "fallenangels.jpg"
+       ]
     },
     {
        "title":"Cinestill 400d",
@@ -121,7 +146,11 @@
         "song":"Self Control",
         "features": [
         "frankocean.jpg"
-        ]
+        ],
+        "movie":"Aftersun",
+        "movieimg": [
+         "aftersun.jpg"
+       ]
     },
     {
        "title":"Kodak 400 T-Max B+W",
@@ -134,7 +163,11 @@
         "song":"Tell Him (Live)",
         "features": [
         "laurynhill.jpg"
-        ]
+        ],
+        "movie":"The Artist",
+        "movieimg": [
+         "theartist.jpg"
+       ]
     },
     {
         "title":"Lomography Lomochrome Metropolis",
@@ -147,7 +180,11 @@
         "song":"Yes I'm Changing",
         "features": [
         "tameimpala.jpg"
-        ]
+        ],
+        "movie":"Chef",
+        "movieimg": [
+         "chef.jpg"
+       ]
      },
      {
         "title":"FujiFilm Velvia 50",
@@ -160,7 +197,11 @@
         "song":"Fluorescent Adolescent",
         "features": [
         "arctic.jpg"
-        ]
+        ],
+        "movie":"The Last Black Man in San Francisco",
+        "movieimg": [
+         "tlbmisf.jpg"
+       ]
      },
      {
         "title":"Lomography Babylon",
@@ -173,7 +214,11 @@
         "song":"Skate",
         "features": [
         "silksonic.jpg"
-        ]
+        ],
+        "movie":"Babylon",
+        "movieimg": [
+         "babylonfilm.jpg"
+       ]
      },
      {
         "title":"Kodak Professional Ektachrome E100 Film",
@@ -186,7 +231,11 @@
         "song":"Partition",
         "features": [
         "beyonce.jpg"
-        ]
+        ],
+        "movie":"Your Name. 君の名は.",
+        "movieimg": [
+         "yourname.jpg"
+       ]
      },
      {
         "title":"Ilford Delta 3200",
@@ -199,7 +248,11 @@
         "song":"I Want You Around (Remix) [feat. 6LACK]",
         "features": [
         "snohaalegra.jpg"
-        ]
+        ],
+        "movie":"Roma",
+        "movieimg": [
+         "roma.jpg"
+       ]
      },
      {
        "title":"FujiFilm Neopan 100 Acros II",
@@ -212,6 +265,10 @@
        "song":"Liar",
        "features": [
        "paramore.jpg"
+       ],
+       "movie":"Sound of Metal",
+       "movieimg": [
+         "soundofmetal.jpg"
        ]
     },
     {
@@ -220,11 +277,15 @@
        "images":[
           "ektar100.jpg"
        ],
-       "album":"Un Verano Sin Ti",
-       "musician":"Bad Bunny",
-       "song":"Tití Me Preguntó",
+       "album":"DAMN.",
+       "musician":"Kendrick Lamar",
+       "song":"LOVE. (FEAT. ZACARI.)",
        "features": [
-       "badbunny.jpg"
+       "kendrick.jpg"
+       ],
+       "movie":"About Time",
+       "movieimg": [
+         "abouttime.jpg"
        ]
     },
     {
@@ -238,6 +299,10 @@
        "song":"Wonderful",
        "features": [
        "liannelahavas.jpg"
+       ],
+       "movie":"Speed Racer",
+       "movieimg": [
+         "speedracer.jpg"
        ]
     },
     {
@@ -251,6 +316,10 @@
        "song":"Sa Aking Pag-Iisa",
        "features": [
        "manilasound.jpg"
+       ],
+       "movie":"Do The Right Thing",
+       "movieimg": [
+         "dotherightthing.jpg"
        ]
     },
     {
@@ -264,6 +333,10 @@
        "song":"Killing Me Softly With His Song",
        "features": [
        "fugees.jpg"
+       ],
+       "movie":"Raya and the Last Dragon",
+       "movieimg": [
+         "raya.jpg"
        ]
     },
     {
@@ -277,6 +350,10 @@
        "song":"All Along the Watchtower",
        "features": [
        "hendrix.jpg"
+       ],
+       "movie":"In The Mood For Love",
+       "movieimg": [
+         "itmfl.jpg"
        ]
     },
     {
@@ -290,6 +367,10 @@
        "song":"Love",
        "features": [
        "keyshia.jpg"
+       ],
+       "movie":"Before Sunset",
+       "movieimg": [
+         "beforesunset.jpg"
        ]
     },
     {
@@ -303,6 +384,10 @@
        "song":"Divina",
        "features": [
        "toroymoi.jpg"
+       ],
+       "movie":"Crazy Rich Asians",
+       "movieimg": [
+         "cra.jpg"
        ]
     },
     {
@@ -316,6 +401,10 @@
        "song":"Life is Better (feat. Norah Jones)",
        "features": [
        "qtip.jpg"
+       ],
+       "movie":"Yi Yi",
+       "movieimg": [
+         "yiyi.jpg"
        ]
     },
     {
@@ -329,6 +418,10 @@
        "song":"I Found You",
        "features": [
        "alabamashakes.jpg"
+       ],
+       "movie":"The Grand Budapest Hotel",
+       "movieimg": [
+         "tgbh.jpg"
        ]
     },
     {
@@ -342,6 +435,10 @@
        "song":"You Send Me",
        "features": [
        "otis.jpg"
+       ],
+       "movie":"The Apartment",
+       "movieimg": [
+         "theapartment.jpg"
        ]
     },
     {
@@ -355,6 +452,10 @@
        "song":"Best Thing That Ever Happen",
        "features": [
        "gktp.jpg"
+       ],
+       "movie":"Moulin Rouge!",
+       "movieimg": [
+         "moulinrouge.jpg"
        ]
     },
     {
@@ -363,11 +464,15 @@
        "images":[
           "amber.jpg"
        ],
-       "album":"Closer (feat. H.E.R.)",
-       "musician":"Saweetie",
-       "song":"Closer (feat. H.E.R.)",
+       "album":"Better Days",
+       "musician":"Mina Okabe",
+       "song":"Every Second",
        "features": [
-       "saweetie.jpg"
+       "mina.jpg"
+       ],
+       "movie":"Before Sunrise",
+       "movieimg": [
+         "beforesunrise.jpg"
        ]
     },
     {
@@ -381,6 +486,10 @@
        "song":"Special (feat. SZA)",
        "features": [
        "lizzo.jpg"
+       ],
+       "movie":"Everything Everywhere All at Once",
+       "movieimg": [
+         "eeaao.jpg"
        ]
     },
     {
@@ -394,6 +503,10 @@
        "song":"Pick Up Your Feelings",
        "features": [
        "jsullivan.jpg"
+       ],
+       "movie":"The Truman Show",
+       "movieimg": [
+         "thetrumanshow.jpg"
        ]
     },
     {
@@ -407,7 +520,11 @@
       "song":"Love Yourz",
       "features": [
       "jcole.jpg"
-      ]
+      ],
+      "movie":"Super 8",
+      "movieimg": [
+         "super8.jpg"
+       ]
    },
    {
       "title":"Kodak 500T/7219",
@@ -420,7 +537,11 @@
       "song":"A Sunday Kind of Love",
       "features": [
       "ettajames.jpg"
-      ]
+      ],
+      "movie":"The Godfather: Part II",
+      "movieimg": [
+         "tg2.jpg"
+       ]
    },
    {
       "title":"Kodak 200T/7213",
@@ -433,7 +554,11 @@
       "song":"Love and Happiness",
       "features": [
       "algreen.jpg"
-      ]
+      ],
+      "movie":"Chungking Express",
+      "movieimg": [
+         "ce.jpg"
+       ]
    },
    {
       "title":"Kodak 7266",
@@ -446,7 +571,11 @@
       "song":"Everywhere",
       "features": [
       "fmtitn.jpg"
-      ]
+      ],
+      "movie":"Spider-Man: No Way Home",
+      "movieimg": [
+         "spiderman.jpg"
+       ]
    },
    {
       "title":"Kodak 100D/7294",
@@ -459,7 +588,11 @@
       "song":"What's Going On",
       "features": [
       "marvingaye.jpg"
-      ]
+      ],
+      "movie":"The Princess Bride",
+      "movieimg": [
+         "tpb.jpg"
+       ]
    },
    {
       "title":"Lomography LomoChrome Purple",
@@ -472,7 +605,11 @@
       "song":"Little by Little",
       "features": [
       "themarias.jpg"
-      ]
+      ],
+      "movie":"The Florida Project",
+      "movieimg": [
+         "tfp.jpg"
+       ]
    },
    {
       "title":"Film Ferrania P30",
@@ -485,7 +622,11 @@
       "song":"Tema d'Amore Per Nata",
       "features": [
       "cinemaparadisomusic.jpg"
-      ]
+      ],
+      "movie":"Life Is Beautiful",
+      "movieimg": [
+         "lifeisbeautiful.jpg"
+       ]
    },
    {
       "title":"CineStill BwXX",
@@ -498,7 +639,11 @@
       "song":"Sir Duke",
       "features": [
       "steviewonder.jpg"
-      ]
+      ],
+      "movie":"Dead Poets Society",
+      "movieimg": [
+         "dpoets.jpg"
+       ]
    },
    {
       "title":"KONO Delight Art 100",
@@ -511,7 +656,11 @@
       "song":"End of Beginning",
       "features": [
       "djo.jpg"
-      ]
+      ],
+      "movie":"Short Term 12",
+      "movieimg": [
+         "st12.jpg"
+       ]
    },
    {
       "title":"Film Photography Project Low",
@@ -524,7 +673,11 @@
       "song":"Let's Do It Again",
       "features": [
       "jboog.jpg"
-      ]
+      ],
+      "movie":"Pirates of the Caribbean: Dead Man’s Chest",
+      "movieimg": [
+         "potc.jpg"
+       ]
    },
    {
       "title":"Film Photography Project Sonic",
@@ -532,16 +685,20 @@
       "images":[
          "sonic.jpg"
       ],
-      "album":"Son of a Pimp",
-      "musician":"Mistah F.A.B.",
-      "song":"Still Feelin' It",
+      "album":"Daydream",
+      "musician":"Mariah Carey",
+      "song":"Fantasy",
       "features": [
-      "mistahfab.jpg"
-      ]
+      "mariahcarey.jpg"
+      ],
+      "movie":"Creed",
+      "movieimg": [
+         "creed.jpg"
+       ]
    },
    {
       "title":"Lomography Potsdam",
-      "desc":"Inspired by the New German Cinema sweeping through Europe in the 1960s, Lomography’s Kino Films are extracted from rolls of cine film produced by a legendary German company that has been changing the face of cinema since the early 1900s. Originally used to make moody monochrome movies, their gorgeous black and white tones lend a timeless effect to cinematic scenes.",
+      "desc":"Lomography’s Kino Films are extracted from rolls of cine film produced by a legendary German company that has been changing the face of cinema since the early 1900s. Originally used to make moody monochrome movies, their gorgeous black and white tones lend a timeless effect to cinematic scenes.",
       "images":[
          "postdam.jpg"
       ],
@@ -550,7 +707,11 @@
       "song":"So Far Away",
       "features": [
       "caroleking.jpg"
-      ]
+      ],
+      "movie":"Lion",
+      "movieimg": [
+         "lion.jpg"
+       ]
    },
    {
       "title":"Kodak Professional T-Max P3200",
@@ -563,7 +724,11 @@
       "song":"Last Request",
       "features": [
       "paolonutini.jpg"
-      ]
+      ],
+      "movie":"If Beale Street Could Talk",
+      "movieimg": [
+         "ibsct.jpg"
+       ]
    },
    {
       "title":"Japan Camera Hunter StreetPan",
@@ -571,12 +736,16 @@
       "images":[
          "jchsp.jpg"
       ],
-      "album":"Venice",
-      "musician":"Anderson .Paak",
-      "song":"Might Be",
+      "album":"K.I.D.S. (Deluxe)",
+      "musician":"Mac Miller",
+      "song":"The Spins",
       "features": [
-      "ap.jpg"
-      ]
+      "mm.jpg"
+      ],
+      "movie":"Howl’s Moving Castle",
+      "movieimg": [
+         "hmc.jpg"
+       ]
    },
    {
       "title":"KONO Moonstruck 200",
@@ -589,7 +758,11 @@
       "song":"Ev'ry Time We Say Goodbye",
       "features": [
       "ellafitzgerald.jpg"
-      ]
+      ],
+      "movie":"Punch-Drunk Love",
+      "movieimg": [
+         "pdl.jpg"
+       ]
    },
    {
       "title":"Lomography Fantome Kino 8",
@@ -602,7 +775,11 @@
       "song":"All I Do",
       "features": [
       "yuna.jpg"
-      ]
+      ],
+      "movie":"The Princess Diaries",
+      "movieimg": [
+         "tpd.jpg"
+       ]
    },
    {
       "title":"KONO Sunstroke 200",
@@ -610,15 +787,19 @@
       "images":[
          "sunstroke.jpg"
       ],
-      "album":"Linger Awhile",
-      "musician":"Samara Joy",
-      "song":"I'm Cofessin' (That I Love You)",
+      "album":"SuperGood",
+      "musician":"DUCKWRTH",
+      "song":"Super Good",
       "features": [
-      "samarajoy.jpg"
-      ]
+      "duckwrth.jpg"
+      ],
+      "movie":"Unpregnant",
+      "movieimg": [
+         "unpregnant.jpg"
+       ]
    },
    {
-      "title":"Melbourne Film Supply CineFilm Vision 3",
+      "title":"Melbourne Film Supply Cine Film Vision 3",
       "desc":"ISO 250 Daylight balanced (5500K) Motion Picture Film. A great film for use in all types of lighting and environments lighting with accurate colors and little grain. Fresh stock direct from Kodak hand-rolled in recycled cassettes. The last frame on the film may have light leaks due to the hand-rolling process and to ensure that your camera works reliably with hand-rolled films. The film is Remjet Coated and must be hand processed in C-41 with Remjet removal or by a lab that can develop Motion Picture Films in ECN-2 chemistry.",
       "images":[
          "cinefilm.jpg"
@@ -628,6 +809,10 @@
       "song":"See You Again (feat. Kali Uchis)",
       "features": [
       "tyler.jpg"
-      ]
+      ],
+      "movie":"How to Lose a Guy in 10 Days",
+      "movieimg": [
+         "htlagi10d.jpg"
+       ]
    }
 ]
