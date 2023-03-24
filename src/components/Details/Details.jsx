@@ -46,7 +46,7 @@ function Details(props) {
               </div>
           </div>
           <div className='w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300 justify-center'>
-              <p className='text-center text-3xl font-bold text-[#eeaf61]'>Place: </p>
+              <p className='text-center text-3xl font-bold text-[#eeaf61]'>Location: </p>
               <div className='text-center font-medium'>
               <p className='py-2 border-b mx-8 mt-8'>{place}</p>
               <p className='py-2 border-b mx-8'>Address: {address}</p>
