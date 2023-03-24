@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lens/static/css/main.f54c66ef.css",
+    "main.js": "/lens/static/js/main.559a7d86.js",
+    "static/media/countdown.gif": "/lens/static/media/countdown.6737c04f4c8eb6d60e67.gif",
+    "static/media/hero.jpg": "/lens/static/media/hero.e275d58b8ad37d18b7f9.jpg",
+    "static/media/photos.jpg": "/lens/static/media/photos.6196410203339225ac27.jpg",
+    "static/media/movies.jpg": "/lens/static/media/movies.3064cf2c20e692c6d26e.jpg",
+    "static/media/reel.jpg": "/lens/static/media/reel.a6dd58e9531231a677f8.jpg",
+    "static/media/books.jpg": "/lens/static/media/books.10842a14ff2f69cad55c.jpg",
+    "static/media/inspired.jpg": "/lens/static/media/inspired.8cea0240d9f521d538e4.jpg",
+    "static/media/yee.jpg": "/lens/static/media/yee.15c01ba873c48f7ddb88.jpg",
+    "static/media/aboutcamera.jpg": "/lens/static/media/aboutcamera.8398511a6915393204bf.jpg",
+    "static/media/aboutheadphones.jpg": "/lens/static/media/aboutheadphones.04a94798233b5dfc85e8.jpg",
+    "index.html": "/lens/index.html",
+    "main.f54c66ef.css.map": "/lens/static/css/main.f54c66ef.css.map",
+    "main.559a7d86.js.map": "/lens/static/js/main.559a7d86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f54c66ef.css",
+    "static/js/main.559a7d86.js"
+  ]
+}
