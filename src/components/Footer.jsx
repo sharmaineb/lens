@@ -1,8 +1,8 @@
 import React from 'react';
 import {
-  FaFacebookSquare,
   FaInstagram,
   FaTwitterSquare,
+  FaGithubSquare,
   FaYoutube
 } from 'react-icons/fa';
 import { BiCameraMovie } from 'react-icons/bi'
@@ -18,8 +18,8 @@ const Footer = () => {
         <h1 className='w-full text-3xl font-bold text-[#f1f1f1]'>LENS.</h1>
         <p className='py-4 text-[#f1f1f1]'>Hey. Hope you have an awesome day!</p>
         <div className='flex justify-between md:w-[90%] my-5 text-[#f1f1f1]'>
+            <FaGithubSquare size={30} />
             <FaInstagram size={30} />
-            <FaFacebookSquare size={30} />
             <FaTwitterSquare size={30} />
             <FaYoutube size={30} />
         </div>
@@ -56,20 +56,32 @@ const Footer = () => {
     <div>
         <h6 className='font-medium text-[#f1f1f1]-400'>Resources</h6>
         <ul>
-        <Link to={`/about`}>
-            <li className='py-2 text-sm'>About</li>
-        </Link>
             <li className='py-2 text-sm'>
             <a href='https://www.barnesandnoble.com/'>Books</a>
+            </li>
+            <li className='py-2 text-sm'>
+            <a href='https://tailwindcss.com/'>Tailwind</a>
+            </li>
+            <li className='py-2 text-sm'>
+            <a href='https://react-icons.github.io/react-icons/'>React Icons</a>
+            </li>
+            <li className='py-2 text-sm'>
+            <a href='https://www.npmjs.com/package/react-typed'>React Typed</a>
+            </li>
+            <li className='py-2 text-sm'>
+            <a href='https://stock.adobe.com/'>Adobe Stock Photos</a>
             </li>
         </ul>
     </div>
     <div>
-        <h6 className='font-medium text-[#f1f1f1]-400'>Policies</h6>
+        <h6 className='font-medium text-[#f1f1f1]-400'>LENS.</h6>
         <ul>
-            <li className='py-2 text-sm'>Terms</li>
-            <li className='py-2 text-sm'>Privacy</li>
-            <li className='py-2 text-sm'>Guidelines</li>
+        <Link to={`/about`}>
+            <li className='py-2 text-sm'>About</li>
+        </Link>
+            <li className='py-2 text-sm'>
+              <a href='https://github.com/sharmaineb'>Github</a>
+            </li>
         </ul>
     </div>
       </div>
