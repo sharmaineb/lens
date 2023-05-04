@@ -1,0 +1,6 @@
+## User Stories:
+As a film photography enthusiast, Kae wanted to discover new types of film and learn how to use them effectively. When she visited the site, she wanted to see examples of how different types of film. She also wanted to be inspired by movies, books, and music that can help her come up with creative ideas for her photography.
+
+As a student of film and media studies, Lex wanted to explore the connections between film, literature, music, and incorporate that in her next photo session. They also wanted to discover books, movies, and albums that could inspire them in creatively, so that they can deepen their understanding of the struggles of not having and then having creative inspiration. 
+
+As a Bay Area resident who loves to explore the city and its surroundings, Ian wanted to discover new places and experiences that inspire him creatively. When he visited the site, he went to find recommendations for local bookstores, music venues, movie theaters, and other cultural landmarks that will help him expand his horizons Finally, he wanted to be able to share his own photos, videos, and writing on the site, so that he can connect with other users who are passionate about creativity and self-expression.
