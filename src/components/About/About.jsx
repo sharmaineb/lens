@@ -10,10 +10,10 @@ import Books from '../../assets/books.jpg'
 const About = () => {
   return (
     <div>
-      <div className='w-full bg-[#fff] py-15 px-1 mx-auto my-auto'>
+      <div className='w-full bg-[#fff] py-8 px-4'>
       <div className='max-w-[1240px] mx-auto grid md:grid-cols-2'>
-      <img className='w-[450px] mx-auto my-5 px-3' src={Lightbulb} alt='/' />
-      <p className="mx-auto my-5 px-3">Hello! Welcome to LENS. This project came about because recently, I picked up my
+      <img className='w-[300px] mx-auto my-5 px-3' src={Lightbulb} alt='Lightbulb' />
+      <p className="text-center my-5 px-3">Hello! Welcome to LENS. This project came about because recently, I picked up my
       camera and quickly realized that I haven't taken any photos in a long time and I haven't
       been feeling creatively inspired lately.</p>
       </div>
@@ -22,7 +22,7 @@ const About = () => {
         {/* -------------------------  */}
         <div className='w-full bg-[#fff] py-15 px-1 mx-auto my-auto float-right'>
         <div className='max-w-[1240px] mx-auto'>
-        <img className='w-[450px] mx-auto my-5 px-3 float-right' src={Camera} alt='/' />
+        <img className='w-[450px] mx-auto my-5 px-3 float-right' src={Camera} alt='Camera' />
         </div> 
         <p className="mx-auto my-5 px-3">It used to feel simple and easy to just pick up the camera and go. 
         But with so much going on we sometimes forget to just stop and take a break. We all need some kind of creative outlet.
@@ -35,7 +35,7 @@ const About = () => {
 
         <div className='w-full bg-[#fff] py-15 px-1 mx-auto my-auto float-left'>
         <div className='max-w-[1240px] mx-auto grid md:grid-cols-2'>
-        <img className='w-[450px] mx-auto my-5 px-3' src={Movies} alt='/' />
+        <img className='w-[450px] mx-auto my-5 px-3' src={Movies} alt='Movies' />
         <p className="mx-auto my-5 px-3">With movies, you can immerse yourself into that world, appreciate the cinematography, 
         the colors and the color contrast of the movie, and even the story might give you an idea of how you want your photos to 
         look like. The lighting of a movie or the angle of the camera can inspire your next photo session. Each camera film listed
@@ -46,7 +46,7 @@ const About = () => {
          {/* -------------------------  */}
         <div className='w-full bg-[#fff] py-15 px-1 mx-auto my-auto float-right'> 
         <div className='w-full bg-[#fff] py-15 px-1 mx-auto my-auto'>
-        <img className='w-[450px] mx-auto my-5 px-3 float-right' src={Headphones} alt='/' />
+        <img className='w-[450px] mx-auto my-5 px-3 float-right' src={Headphones} alt='Headphones' />
         </div>
         <p className="mx-auto my-5 px-3">Music can bring forth emotions and can spark an idea or two on the type of photos 
         you want to capture. Each camera film listed is paired with an album and a song that may or may not fit the vibe of the 
@@ -57,7 +57,7 @@ const About = () => {
          {/* -------------------------  */}
         <div className='w-full bg-[#fff] py-15 px-1 mx-auto my-auto float-left'>
         <div className='w-full bg-[#fff] py-15 px-1 mx-auto my-auto'>
-        <img className='w-[450px] mx-auto my-5 px-3 float-left' src={Books} alt='/' />
+        <img className='w-[450px] mx-auto my-5 px-3 float-left' src={Books} alt='Books' />
         </div>
         <p className="mx-auto my-5 px-3">Books can open doors to worlds one could not have imagined. Be it a fantasy book, a thriller, or a rom-com. 
         It can also open one’s eyes on how small we are in this universe and that can spark some sort of creativity. Books help our minds have the 
@@ -68,7 +68,7 @@ const About = () => {
          {/* -------------------------  */} 
         <div className='w-full bg-[#fff] py-15 px-1 mx-auto my-auto float-right'>  
         <div className='w-full bg-[#fff] py-15 px-1 mx-auto my-auto'>
-        <img className='w-[450px] mx-auto my-5 px-3 float-right' src={Bay} alt='/' />
+        <img className='w-[450px] mx-auto my-5 px-3 float-right' src={Bay} alt='Bay Area' />
         </div>
         <p className="mx-auto my-5 px-3">I chose to include places in the San Francisco Bay Area and a couple of places in Northern California 
         in general because it’s what I’m familiar with. Being born and raised here was fun and all and all my family and friends are here but lately I think 
@@ -80,7 +80,7 @@ const About = () => {
          {/* -------------------------  */}
         <div className='w-full bg-[#fff] py-15 px-1 mx-auto my-auto float-left'>
         <div className='w-full bg-[#fff] py-15 px-1 mx-auto my-auto'>
-        <img className='w-[450px] mx-auto my-5 px-3 float-left' src={Inspire} alt='/' />
+        <img className='w-[450px] mx-auto my-5 px-3 float-left' src={Inspire} alt='Inspire' />
         </div>
         <p className="mx-auto my-5 px-3">Thank you for checking this project out. 
         It was a personal one and I had a lot of fun. Hope this inspires you creatively in some way!</p>
