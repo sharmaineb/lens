@@ -13,20 +13,20 @@ import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
-  <div class="mx-auto py-8 px-4 sm:py-16 grid grid-cols-1 gap-8 text-gray-300 bg-[#F2B6DD] mt-10" aria-label='footer'>
+  <div class="mx-auto py-8 px-4 sm:py-16 grid grid-cols-1 gap-8 text-gray-300 bg-[#282828] mt-10" aria-label='footer'>
   <div>
-    <h1 className='w-full text-3xl font-bold text-[#f1f1f1]' aria-label='name of site - lens'>LENS.</h1>
-    <p className='py-4 text-[#f1f1f1]' aria-label='thank you message'>Hey. Hope you have an awesome day!</p>
-    <div className='flex justify-between my-5 text-[#f1f1f1]'>
+    <h1 className='w-full text-3xl font-bold text-[#ffc444]' aria-label='name of site - lens'>LENS.</h1>
+    <p className='py-4 text-[#ffc444]' aria-label='thank you message'>Hey. Hope you have an awesome day!</p>
+    <div className='flex justify-between my-5 text-[#ffc444]'>
         <FaGithubSquare size={30} />
         <FaInstagram size={30} />
         <FaTwitterSquare size={30} />
         <FaYoutube size={30} />
     </div>
   </div>
-  <div className='col-span-1 flex justify-between mt-6 text-[#f1f1f1]' aria-label='film resources'>
+  <div className='col-span-1 flex justify-between mt-6 text-[#ffc444]' aria-label='film resources'>
     <div>
-        <h6 className='font-medium text-[#f1f1f1]-400'>Film Resources</h6>
+        <h6 className='font-medium text-[#ffc444]-400'>Film Resources</h6>
         <ul>
             <li className='py-2 text-sm'>
             <a href='https://thedarkroom.com/'>The Dark Room</a>
@@ -40,7 +40,7 @@ const Footer = () => {
         </ul>
     </div>
     <div>
-        <h6 className='font-medium text-[#f1f1f1]-400' aria-label='movie resources'>Movie Resources</h6>
+        <h6 className='font-medium text-[#ffc444]-400' aria-label='movie resources'>Movie Resources</h6>
         <ul>
             <li className='py-2 text-sm'>
             <a href='https://letterboxd.com/'>Letterboxd</a>
@@ -80,7 +80,7 @@ const Footer = () => {
     <MdTravelExplore class="w-5 h-5 md:w-6 md:h-6" />
     <h2 class="font-extrabold text-lg md:text-xl">LENS.</h2>
   </div>
-  <button class="bg-yellow-400 text-white rounded-md font-medium py-2 px-4 mt-4 md:mt-0" aria-label='sign up button'>Sign Up</button>
+  <button class="bg-yellow-400 text-black rounded-md font-medium py-2 px-4 mt-4 md:mt-0" aria-label='sign up button'>Sign Up</button>
 </div>
 </div> 
 </div>   

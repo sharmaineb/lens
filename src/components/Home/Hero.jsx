@@ -28,7 +28,7 @@ const Hero = () => {
       <div className='max-w-[1240px] mx-auto grid md:grid-cols-2'>
         <img className='w-[450px] mx-auto my-4 px-2' src={Photos} alt='/' aria-label="image of photos and camera"/>
         <div className='flex flex-col justify-center'>
-          <p className='text-[#eeaf61] font-bold' aria-label="how do we find creativity">CREATIVITY.</p>
+          <p className='text-[#000000] font-bold' aria-label="how do we find creativity">CREATIVITY.</p>
           <p>
           How do we find creative inspiration?
           Everyone finds inspiration in different ways. 
