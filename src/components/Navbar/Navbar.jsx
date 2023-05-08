@@ -7,8 +7,7 @@ import { MdTravelExplore } from 'react-icons/md'
 
 const Navbar = () => {
     return (
-      <div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 text-[#6AB9D9]'>
-        
+      <div className='flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4 text-[#6AB9D9]'>        
         <div className='w-full text-[#6AB9D9] flex px-1 space-x-4'>
         <GiFilmStrip size={20}/>
         <BiCameraMovie size={20}/>
