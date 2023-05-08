@@ -9,8 +9,9 @@ import Books from '../../assets/books.jpg'
 
 const About = () => {
   return (
-    <div>
-      <div className='w-full bg-[#fff] py-8 px-4'>
+    <main>
+      <section>
+      <div className='w-full bg-[#fff] py-8 px-4' role="region" aria-label="Thank You Message">
       <div className='max-w-[1240px] mx-auto grid md:grid-cols-2'>
       <img className='w-[300px] mx-auto my-5 px-3' src={Lightbulb} alt='Lightbulb' />
       <p className="text-center my-5 px-3">Hello! Welcome to LENS. This project came about because recently, I picked up my
@@ -18,9 +19,9 @@ const About = () => {
       been feeling creatively inspired lately.</p>
       </div>
       </div>
-
-        {/* -------------------------  */}
-        <div className='w-full bg-[#fff] py-15 px-1 mx-auto my-auto float-right'>
+      </section>
+      <section>
+        <div className='w-full bg-[#fff] py-15 px-1 mx-auto my-auto float-right' role="region" aria-label="Cameras and Inspiration">
         <div className='max-w-[1240px] mx-auto'>
         <img className='w-[450px] mx-auto my-5 px-3 float-right' src={Camera} alt='Camera' />
         </div> 
@@ -28,12 +29,10 @@ const About = () => {
         But with so much going on we sometimes forget to just stop and take a break. We all need some kind of creative outlet.
         Whether it be movies, music, books, or traveling, just a little spark of inspiration can 
         make a difference.</p>
-
         </div>
-
-        {/* -------------------------  */}
-
-        <div className='w-full bg-[#fff] py-15 px-1 mx-auto my-auto float-left'>
+      </section>
+      <section>
+        <div className='w-full bg-[#fff] py-15 px-1 mx-auto my-auto float-left' role="region" aria-label="Movies and Inspiration">
         <div className='max-w-[1240px] mx-auto grid md:grid-cols-2'>
         <img className='w-[450px] mx-auto my-5 px-3' src={Movies} alt='Movies' />
         <p className="mx-auto my-5 px-3">With movies, you can immerse yourself into that world, appreciate the cinematography, 
@@ -42,20 +41,19 @@ const About = () => {
         is paired with a movie that may or may not inspire you for your next photo session.</p>
         </div> 
         </div>
-
-         {/* -------------------------  */}
-        <div className='w-full bg-[#fff] py-15 px-1 mx-auto my-auto float-right'> 
+      </section>
+      <section>
+        <div className='w-full bg-[#fff] py-15 px-1 mx-auto my-auto float-right' role="region" aria-label="Music and Inspiration"> 
         <div className='w-full bg-[#fff] py-15 px-1 mx-auto my-auto'>
         <img className='w-[450px] mx-auto my-5 px-3 float-right' src={Headphones} alt='Headphones' />
         </div>
         <p className="mx-auto my-5 px-3">Music can bring forth emotions and can spark an idea or two on the type of photos 
         you want to capture. Each camera film listed is paired with an album and a song that may or may not fit the vibe of the 
-        camera film and hopefully will spark some sort of creative inspiration. </p>
-        
+        camera film and hopefully will spark some sort of creative inspiration. </p>        
         </div>
-
-         {/* -------------------------  */}
-        <div className='w-full bg-[#fff] py-15 px-1 mx-auto my-auto float-left'>
+      </section>  
+      <section>
+        <div className='w-full bg-[#fff] py-15 px-1 mx-auto my-auto float-left' role="region" aria-label="Books and Inspiration">
         <div className='w-full bg-[#fff] py-15 px-1 mx-auto my-auto'>
         <img className='w-[450px] mx-auto my-5 px-3 float-left' src={Books} alt='Books' />
         </div>
@@ -64,9 +62,9 @@ const About = () => {
         space to think about things in a deeper way and can help develop our imagination and understanding.
         Each camera film listed is paired with a book that may or may not fit the vibe of the camera film and hopefully will spark some sort of creative inspiration.</p>
         </div> 
-
-         {/* -------------------------  */} 
-        <div className='w-full bg-[#fff] py-15 px-1 mx-auto my-auto float-right'>  
+      </section>
+      <section>
+        <div className='w-full bg-[#fff] py-15 px-1 mx-auto my-auto float-right' role="region" aria-label="Bay Area, CA and Inspiration">  
         <div className='w-full bg-[#fff] py-15 px-1 mx-auto my-auto'>
         <img className='w-[450px] mx-auto my-5 px-3 float-right' src={Bay} alt='Bay Area' />
         </div>
@@ -76,16 +74,17 @@ const About = () => {
         Each camera film listed is paired with a place that may or may not fit the vibe of the camera film and hopefully will spark some sort of creative inspiration.
         </p>
         </div>
-
-         {/* -------------------------  */}
-        <div className='w-full bg-[#fff] py-15 px-1 mx-auto my-auto float-left'>
+      </section>
+      <section>
+        <div className='w-full bg-[#fff] py-15 px-1 mx-auto my-auto float-left' role="region" aria-label="Inspire">
         <div className='w-full bg-[#fff] py-15 px-1 mx-auto my-auto'>
         <img className='w-[450px] mx-auto my-5 px-3 float-left' src={Inspire} alt='Inspire' />
         </div>
         <p className="mx-auto my-5 px-3">Thank you for checking this project out. 
         It was a personal one and I had a lot of fun. Hope this inspires you creatively in some way!</p>
         </div> 
-    </div>
+      </section>
+    </main>
   )
 }
 

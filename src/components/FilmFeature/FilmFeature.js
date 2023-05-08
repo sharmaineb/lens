@@ -10,7 +10,7 @@ function getFeature(props) {
 	const { features, title } = data[id]
 
 	return (
-		<div className='Details-image'>
+		<div className='Details-image' aria-label='film feature'>
  		  <img src={`${process.env.PUBLIC_URL}/images/${features[0]}`} alt={title} />
  		</div>
 	)

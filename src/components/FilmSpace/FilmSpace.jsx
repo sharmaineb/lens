@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 function FilmSpace(props) {
     const { name, image, id } = props
     return (
-      <div className='FilmSpace'>
+      <div className='FilmSpace' aria-label='film space'>
         <h1>
           <Link to={`/details/${id}`} className='FilmSpace-title'>
             {name}

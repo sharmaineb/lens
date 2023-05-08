@@ -6,7 +6,7 @@ function FeatureList(props) {
 	const icons = props.features.map((feature) => {
     return <FilmFeature key={feature} name={feature} />
   })
-	return <div className="FeatureList">{icons}</div>
+	return <div className="FeatureList" aria-label='feature list'>{icons}</div>
 }
 
 export default FeatureList

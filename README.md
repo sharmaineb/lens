@@ -1,7 +1,6 @@
 ## LENS.
 
 ### Outline:
-### LENS
 * Home
   * Header
     * Page Title: LENS.

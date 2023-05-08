@@ -11,9 +11,9 @@ const Hero = () => {
   return (
     <div className="text-[#0E7373]">
        <div className="max-w-[800px] w-full h-screen mx-auto text-center flex flex-col justify-center">
-       <img className='w-[1100px] mx-auto my-5 px-3' src={HeroImg} alt='/' />
+       <img className='w-[1100px] mx-auto my-5 px-3' src={HeroImg} alt='/' aria-label="hero image"/>
          <div className="flex justify-center items-center">
-        <div className="flex justify-center items-center ">
+        <div className="flex justify-center items-center" aria-label="welcome title">
            <Typed
              className="md:text-5xl sm:text-4xl text-xl font-bold md:pl-4 pl-2"
              strings={["WELCOME TO LENS."]}
@@ -24,12 +24,11 @@ const Hero = () => {
         </div>
          </div>
       </div>
-      {/* ----------------------------------------------------------- */}
       <div className='w-full bg-[#fff] py-15 px-1 mx-auto my-auto'>
       <div className='max-w-[1240px] mx-auto grid md:grid-cols-2'>
-        <img className='w-[450px] mx-auto my-4 px-2' src={Photos} alt='/' />
+        <img className='w-[450px] mx-auto my-4 px-2' src={Photos} alt='/' aria-label="image of photos and camera"/>
         <div className='flex flex-col justify-center'>
-          <p className='text-[#eeaf61] font-bold '>CREATIVITY.</p>
+          <p className='text-[#eeaf61] font-bold' aria-label="how do we find creativity">CREATIVITY.</p>
           <p>
           How do we find creative inspiration?
           Everyone finds inspiration in different ways. 
@@ -38,8 +37,8 @@ const Hero = () => {
         </div>
         </div>
         <div class="overflow-hidden text-neutral-700 pt-28">
-        <img className='w-[350px] mx-auto' src={Countdown} alt='/' />
-        <div class="container mx-auto px-5 py-2 lg:px-32 lg:pt-24">
+        <img className='w-[350px] mx-auto' src={Countdown} alt='/' aria-label="movie countdown"/>
+        <div class="container mx-auto px-5 py-2 lg:px-32 lg:pt-24" aria-label="images from movies">
         <div class="-m-1 flex flex-wrap md:-m-2">
         <div class="flex w-1/2 flex-wrap">
         <div class="w-1/2 p-1 md:p-2">
@@ -178,12 +177,12 @@ const Hero = () => {
       <div className='max-w-[1240px] mx-auto grid md:grid-cols-1 gap-8'>
           <div className='w-full shadow-xl flex flex-col p-4 my-4 rounded-lg hover:scale-105 duration-300'>
             <GiFilmStrip size={20}/>
-              <p className='text-center text-3xl font-bold'>Camera Film</p>
+              <p className='text-center text-3xl font-bold' aria-label="camera film title">Camera Film</p>
               <div className='text-center font-medium'>
-              <img className='w-[450px] mx-auto my-5 px-7' src={Reel} alt='/' />
+              <img className='w-[450px] mx-auto my-5 px-7' src={Reel} alt='/' aria-label="image of film reel"/>
               </div>
               <Link to={`/list`}>
-              <button className='bg-[#F2E63D] text-[#003000] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 flex justify-center'>Explore</button>
+              <button className='bg-[#F2E63D] text-[#003000] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 flex justify-center' aria-label="explore button">Explore</button>
               </Link>
           </div>
       </div>

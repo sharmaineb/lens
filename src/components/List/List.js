@@ -22,16 +22,16 @@ function List() {
   })
 
   return (
-    <div className="Search">
-      <img className='w-[400px] mx-auto my-5 px-3' src={Reel} alt='/' />
-			<form>
+    <div className="Search" aria-label='search section'>
+      <img className='w-[400px] mx-auto my-5 px-3' src={Reel} alt='/' aria-label='image of film reel'/>
+			<form aria-label='search form'>
 				<input
 					value={query}
 					placeholder="Search Film By Brand"
 					onChange={(e) => setQuery(e.target.value)}
 				/>
 			</form>
-      <button className='bg-[#F2E63D] text-[#003000] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 flex justify-center'>
+      <button className='bg-[#F2E63D] text-[#003000] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 flex justify-center' aria-label='pick for me button'>
       <RandomSpace />
       </button>
 			<div className="List">
