@@ -4,6 +4,7 @@ import { GiFilmStrip } from 'react-icons/gi'
 import { ImHeadphones } from 'react-icons/im'
 import { NavLink } from "react-router-dom";
 import { MdTravelExplore } from 'react-icons/md'
+import './Navbar.css'
 
 const Navbar = () => {
     return (
