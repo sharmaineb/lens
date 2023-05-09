@@ -3,6 +3,11 @@
 ### GH Pages:
 [Final Project Live Link](https://sharmaineb.github.io/lens/#/home)
 
+### Wireframes:
+[Figma Link Desktop/Mobile Wireframes](https://www.figma.com/file/mW2v6xoZUHphcVSrEXuRbq/Wireframes---Final-Project-ACS-2330?type=design&node-id=0%3A1&t=jwZZ2ds5YwrhVTaX-1)
+
+[GH Link for Wireframes](https://github.com/sharmaineb/lens/tree/main/wireframes)
+
 ### Outline:
 * Home
   * Header
